@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
+<!--
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:azqazq195@gmail.com)
 
 
@@ -11,6 +12,8 @@
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/) [![Postman Badge](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
+
+-->
 
 
 
