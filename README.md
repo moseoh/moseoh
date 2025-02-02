@@ -21,9 +21,3 @@
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.0.18](https://github.com/moseoh/programmers_helper/releases/tag/v0.0.18), 5 months ago) - Programmers 문제풀이 도움 Plugin
 - [moseoh/actions.pull-request-validator](https://github.com/moseoh/actions.pull-request-validator) ([v1.0.1](https://github.com/moseoh/actions.pull-request-validator/releases/tag/v1.0.1), 7 months ago) - Pull Request 자동화 Github Actions
 - [moseoh/actions.add-reviewers](https://github.com/moseoh/actions.add-reviewers) ([v1.0.1](https://github.com/moseoh/actions.add-reviewers/releases/tag/v1.0.1), 7 months ago) - Add Reviewers 자동화 Github Actions
-
-# #### ❤️ Latest sponsors
-
-#
-
-# Thanks again for your support, it is much appreciated! 🙏
