@@ -1,34 +1,29 @@
-### Hi 👋
+### Hi there 👋
 
-<!--
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:azqazq195@gmail.com)
+#### 👷 Check out what I'm currently working on
 
+- [moseoh/blog](https://github.com/moseoh/blog) -  (4 days ago)
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (4 days ago)
+- [moseoh/Study](https://github.com/moseoh/Study) - 기본, 구현 공부 (2 months ago)
+- [moseoh/best-practice](https://github.com/moseoh/best-practice) - Best Practice With NextJS, Go (2 months ago)
+- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (3 months ago)
 
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/ko/) [![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) 
+#### 👨‍💻 Repositories I created recently
 
-[![Spring Badge](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드
+- [moseoh/best-practice](https://github.com/moseoh/best-practice) - Best Practice With NextJS, Go
+- [moseoh/blog](https://github.com/moseoh/blog)
+- [moseoh/pr-ollama-bot](https://github.com/moseoh/pr-ollama-bot)
+- [moseoh/ctl](https://github.com/moseoh/ctl) - custom system control
 
-[![AndroidStudio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)](https://developer.android.com/)
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+#### 🚀 Latest releases I've contributed to
 
-[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/) [![Postman Badge](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
+- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.0.18](https://github.com/moseoh/programmers_helper/releases/tag/v0.0.18), 5 months ago) - Programmers 문제풀이 도움 Plugin
+- [moseoh/actions.pull-request-validator](https://github.com/moseoh/actions.pull-request-validator) ([v1.0.1](https://github.com/moseoh/actions.pull-request-validator/releases/tag/v1.0.1), 7 months ago) - Pull Request 자동화 Github Actions
+- [moseoh/actions.add-reviewers](https://github.com/moseoh/actions.add-reviewers) ([v1.0.1](https://github.com/moseoh/actions.add-reviewers/releases/tag/v1.0.1), 7 months ago) - Add Reviewers 자동화 Github Actions
 
--->
+# #### ❤️ Latest sponsors
 
+#
 
-
-
-<!--
-**azqazq195/azqazq195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Thanks again for your support, it is much appreciated! 🙏
