@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (1 week ago)
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (2 weeks ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (2 months ago)
 - [moseoh/blog](https://github.com/moseoh/blog) -  (2 months ago)
 - [moseoh/Study](https://github.com/moseoh/Study) - 기본, 구현 공부 (4 months ago)
