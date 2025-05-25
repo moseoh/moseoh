@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/blog-notion](https://github.com/moseoh/blog-notion) -  (1 week ago)
-- [moseoh/unilog-2](https://github.com/moseoh/unilog-2) - hugo theme (1 week ago)
-- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (1 month ago)
-- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (3 months ago)
-- [moseoh/blog](https://github.com/moseoh/blog) -  (3 months ago)
+- [moseoh/github-template](https://github.com/moseoh/github-template) - Template Repository (2 days ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) -  A minimal Hugo theme with Nord-inspired styling, built for Notion-based blogs. (2 days ago)
+- [moseoh/personal-assistant-github-app](https://github.com/moseoh/personal-assistant-github-app) - A GitHub App that automates personal repository tasks like issue management and pull request labeling. (3 days ago)
+- [moseoh/blog-notion](https://github.com/moseoh/blog-notion) -  (2 weeks ago)
+- [moseoh/unilog-2](https://github.com/moseoh/unilog-2) - hugo theme (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) -  A minimal Hugo theme with Nord-inspired styling, built for Notion-based blogs.
+- [moseoh/personal-assistant-github-app](https://github.com/moseoh/personal-assistant-github-app) - A GitHub App that automates personal repository tasks like issue management and pull request labeling.
+- [moseoh/github-template](https://github.com/moseoh/github-template) - Template Repository
 - [moseoh/blog-notion](https://github.com/moseoh/blog-notion)
 - [moseoh/unilog-2](https://github.com/moseoh/unilog-2) - hugo theme
-- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드
-- [moseoh/best-practice](https://github.com/moseoh/best-practice) - Best Practice With NextJS, Go
-- [moseoh/blog](https://github.com/moseoh/blog)
 
 #### 🚀 Latest releases I've contributed to
 
