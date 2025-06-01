@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/github-template](https://github.com/moseoh/github-template) - Template Repository (2 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) -  A minimal Hugo theme with Nord-inspired styling, built for Notion-based blogs. (2 days ago)
-- [moseoh/personal-assistant-github-app](https://github.com/moseoh/personal-assistant-github-app) - A GitHub App that automates personal repository tasks like issue management and pull request labeling. (3 days ago)
-- [moseoh/blog-notion](https://github.com/moseoh/blog-notion) -  (2 weeks ago)
-- [moseoh/unilog-2](https://github.com/moseoh/unilog-2) - hugo theme (2 weeks ago)
+- [moseoh/goback](https://github.com/moseoh/goback) - A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed. (2 days ago)
+- [moseoh/github-template](https://github.com/moseoh/github-template) - Template Repository (1 week ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) -  A minimal Hugo theme with Nord-inspired styling, built for Notion-based blogs. (1 week ago)
+- [moseoh/personal-assistant-github-app](https://github.com/moseoh/personal-assistant-github-app) - A GitHub App that automates personal repository tasks like issue management and pull request labeling. (1 week ago)
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [moseoh/goback](https://github.com/moseoh/goback) - A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.
 - [moseoh/polarnote](https://github.com/moseoh/polarnote) -  A minimal Hugo theme with Nord-inspired styling, built for Notion-based blogs.
 - [moseoh/personal-assistant-github-app](https://github.com/moseoh/personal-assistant-github-app) - A GitHub App that automates personal repository tasks like issue management and pull request labeling.
 - [moseoh/github-template](https://github.com/moseoh/github-template) - Template Repository
-- [moseoh/blog-notion](https://github.com/moseoh/blog-notion)
-- [moseoh/unilog-2](https://github.com/moseoh/unilog-2) - hugo theme
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드
 
 #### 🚀 Latest releases I've contributed to
 
