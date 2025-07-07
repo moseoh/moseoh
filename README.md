@@ -2,7 +2,7 @@
 
 #### 🎉 Opensource Contribute
 
-- [open-telemetry #41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) - [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036)
 
 #### 👷 Check out what I'm currently working on
 
