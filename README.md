@@ -10,7 +10,7 @@
 - [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 week ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (1 week ago)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (3 weeks ago)
-- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (4 weeks ago)
+- [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
