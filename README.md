@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/code-template](https://github.com/moseoh/code-template) -  (today)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (2 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (2 days ago)
+- [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 day ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (3 days ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (3 days ago)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (3 weeks ago)
 - [moseoh/blog-code-example](https://github.com/moseoh/blog-code-example) - Blog 포스팅용 예제 코드 (1 month ago)
 
