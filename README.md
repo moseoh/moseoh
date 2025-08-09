@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (today)
-- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (today)
-- [moseoh/code-template](https://github.com/moseoh/code-template) -  (6 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (1 week ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (1 week ago)
+- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (1 day ago)
+- [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 week ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (2 weeks ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -22,5 +22,5 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.2.1](https://github.com/moseoh/programmers_helper/releases/tag/v0.2.1), 1 day ago) - Programmers 문제풀이 도움 Plugin
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.131.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.131.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
-- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.1.0](https://github.com/moseoh/programmers_helper/releases/tag/v0.1.0), 5 months ago) - Programmers 문제풀이 도움 Plugin
