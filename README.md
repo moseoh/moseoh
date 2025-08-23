@@ -12,7 +12,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [moseoh/resume-maker](https://github.com/moseoh/resume-maker) - Resume builder with PDF generation, multiple templates, and personal career management system (1 week ago)
-- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (1 week ago)
+- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (2 weeks ago)
 - [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (2 weeks ago)
-- [moseoh/code-template](https://github.com/moseoh/code-template) -  (2 weeks ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (3 weeks ago)
+- [moseoh/code-template](https://github.com/moseoh/code-template) -  (3 weeks ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (4 weeks ago)
