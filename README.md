@@ -13,6 +13,6 @@
 
 - [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 week ago)
 - [moseoh/ai-k8s-practice](https://github.com/moseoh/ai-k8s-practice) -  (2 weeks ago)
-- [moseoh/resume-maker](https://github.com/moseoh/resume-maker) - Resume builder with PDF generation, multiple templates, and personal career management system (1 month ago)
+- [moseoh/resume-maker](https://github.com/moseoh/resume-maker) - Resume builder with PDF generation, multiple templates, and personal career management system (2 months ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (2 months ago)
 - [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (2 months ago)
