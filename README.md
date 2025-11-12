@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (2 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (2 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (3 days ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (3 days ago)
 - [moseoh/troi-front](https://github.com/moseoh/troi-front) -  (1 week ago)
 - [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 week ago)
 - [moseoh/ai-k8s-practice](https://github.com/moseoh/ai-k8s-practice) -  (1 month ago)
