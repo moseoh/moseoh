@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (1 day ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (1 day ago)
-- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (3 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (2 days ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (2 days ago)
+- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (4 days ago)
 - [moseoh/code-template](https://github.com/moseoh/code-template) -  (1 week ago)
 - [moseoh/troi-front](https://github.com/moseoh/troi-front) -  (3 weeks ago)
