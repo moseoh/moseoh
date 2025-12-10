@@ -12,7 +12,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) -  (today)
-- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (6 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (1 week ago)
+- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (1 week ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) -  (1 week ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (1 week ago)
 - [moseoh/code-template](https://github.com/moseoh/code-template) -  (3 weeks ago)
