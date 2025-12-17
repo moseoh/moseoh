@@ -18,14 +18,23 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: "stable"
+          cache: false
+
+      - name: Cache markscribe binary
+        id: cache-markscribe
+        uses: actions/cache@v4
+        with:
+          path: ~/go/bin/markscribe
+          key: markscribe-${{ runner.os }}-v1
 
       - name: Install markscribe (charmbracelet fork with sprout)
+        if: steps.cache-markscribe.outputs.cache-hit != 'true'
         run: go install github.com/charmbracelet/markscribe@latest
 
       - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        run: markscribe -write README.md templates/README.md.tpl
+        run: ~/go/bin/markscribe -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:

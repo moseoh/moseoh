@@ -21,7 +21,7 @@
 {{- $prCount := 0 }}
 {{- range recentPullRequests 50 }}
 {{- if and (lt $prCount $prLimit) (eq .State "MERGED") (not (.Repo.Name | hasPrefix (printf "%s/" $username))) }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - [#{{ .Number }}]({{ .URL }}) {{ .Title }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - [#{{ .URL | splitList "/" | last }}]({{ .URL }}) {{ .Title }}
 {{- $prCount = add $prCount 1 }}
 {{- end }}
 {{- end }}
