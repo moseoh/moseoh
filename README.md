@@ -6,8 +6,18 @@
 - [programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.2.2](https://github.com/moseoh/programmers_helper/releases/tag/v0.2.2), 3 days ago) - Programmers 문제풀이 도움 Plugin
 
 #### 🎉 Opensource Contributions
-- [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) - [#25](https://github.com/moseoh-org/flash-deals/pull/25) chore: 사용하지 않는 파일 정리
-- [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) - [#24](https://github.com/moseoh-org/flash-deals/pull/24) perf(order): 핫딜 주문 지연 개선으로 처리량 2.8배 향상
-- [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) - [#23](https://github.com/moseoh-org/flash-deals/pull/23) docs: fifo-ordering 문서를 stock-lock-contention으로 변경
-- [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) - [#22](https://github.com/moseoh-org/flash-deals/pull/22) perf(product): Go Channel FIFO 큐로 선착순 순서 보장
-- [moseoh-org/flash-deals](https://github.com/moseoh-org/flash-deals) - [#21](https://github.com/moseoh-org/flash-deals/pull/21) perf(order): Product/Order Service Go 전환으로 처리량 6.4배 향상
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
+- [self-hosted-actions/cache](https://github.com/self-hosted-actions/cache) - [#1](https://github.com/self-hosted-actions/cache/pull/1) feat(cache): 로컬 파일시스템 캐시 지원 추가
+
+<!-- DEBUG: 최근 PR 목록 (State 무관) -->
+<!-- wickenico/WailBrew | State: OPEN | Optimize brew call performance with caching -->
+<!-- moseoh/mst | State: MERGED | test: vitest 테스트 환경 구성 및 단위 테스트 추가 -->
+<!-- moseoh/programmers_helper | State: MERGED | chore: release v0.2.2 -->
+<!-- moseoh/programmers_helper | State: MERGED | fix(test): IntelliJ Platform 테스트 프레임워크 호환성 수정 -->
+<!-- moseoh/programmers_helper | State: MERGED | ci: GitHub Actions 워크플로우 개선 및 릴리즈 자동화 -->
+<!-- moseoh/code-template | State: MERGED | chore: devconfig 디렉토리 제거 -->
+<!-- moseoh/mst | State: MERGED | chore: exclude release PR from changelog -->
+<!-- moseoh/mst | State: MERGED | chore: release v1.0.3 -->
+<!-- moseoh/mst | State: MERGED | refactor(cli): read version from package.json -->
+<!-- moseoh/mst | State: MERGED | chore: release v1.0.2 -->
