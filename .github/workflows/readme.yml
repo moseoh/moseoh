@@ -1,0 +1,55 @@
+name: Update Profile README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'templates/**'
+      - '.github/profile-gen.yml'
+      - 'github-profile-gen/**'
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: github-profile-gen/package-lock.json
+
+      - name: Install dependencies
+        working-directory: github-profile-gen
+        run: npm ci
+
+      - name: Build
+        working-directory: github-profile-gen
+        run: npm run build
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          INPUT_GITHUB-TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          INPUT_CONFIG-PATH: .github/profile-gen.yml
+          INPUT_USERNAME: moseoh
+        working-directory: github-profile-gen
+        run: node dist/index.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update README and data'
+          file_pattern: 'README.md data/*.json'
+          commit_user_name: github-profile-gen 🤖
+          commit_user_email: actions@github.com
+          commit_author: github-profile-gen 🤖 <actions@github.com>

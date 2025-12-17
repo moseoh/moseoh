@@ -1,0 +1,42 @@
+# github-profile-gen configuration
+
+collectors:
+  contributions:
+    enabled: true
+    apiLimit: 99
+    displayLimit: 5
+    exclude:
+      owners:
+        - moseoh
+        - moseoh-org
+      repos: []
+
+  releases:
+    enabled: true
+    apiLimit: 15
+    displayLimit: 5
+    exclude:
+      repos:
+        - mst
+
+  recentWork:
+    enabled: true
+    apiLimit: 10
+    displayLimit: 5
+    exclude:
+      repos: []
+
+  stars:
+    enabled: true
+    trackHistory: true
+
+  rss:
+    enabled: false
+
+paths:
+  template: templates/README.md.tpl
+  output: README.md
+  data: data
+
+variables:
+  greeting: "Hi there"

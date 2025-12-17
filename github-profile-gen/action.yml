@@ -1,0 +1,33 @@
+name: 'GitHub Profile Generator'
+description: 'Generate and update your GitHub profile README with contributions, releases, and more'
+author: 'moseoh'
+
+branding:
+  icon: 'file-text'
+  color: 'blue'
+
+inputs:
+  github-token:
+    description: 'GitHub token with read:user, repo:status, public_repo scopes'
+    required: true
+  config-path:
+    description: 'Path to configuration file'
+    required: false
+    default: '.github/profile-gen.yml'
+  username:
+    description: 'GitHub username (defaults to repository owner)'
+    required: false
+  dry-run:
+    description: 'Run without writing files'
+    required: false
+    default: 'false'
+
+outputs:
+  readme-path:
+    description: 'Path to generated README file'
+  new-contributions:
+    description: 'Number of new contributions found'
+
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
