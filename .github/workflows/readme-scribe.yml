@@ -2,28 +2,34 @@ name: Update README
 
 on:
   push:
+    branches: [main]
   schedule:
-    - cron: "0 15 * * *" # 매일 자정 
+    - cron: "0 15 * * *" # 매일 자정 (KST)
+  workflow_dispatch:
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "stable"
+
+      - name: Install markscribe (charmbracelet fork with sprout)
+        run: go install github.com/charmbracelet/markscribe@latest
+
+      - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        run: markscribe -write README.md templates/README.md.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update generated README
+          commit_message: "Update generated README"
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
