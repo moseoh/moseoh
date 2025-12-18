@@ -1,0 +1,834 @@
+{
+  "lastUpdated": "2025-12-18T08:31:18.319Z",
+  "items": [
+    {
+      "id": "moseoh-org/flash-deals#25",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 25,
+        "title": "chore: 사용하지 않는 파일 정리",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/25",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T09:00:47Z",
+        "createdAt": "2025-12-13T09:00:07Z",
+        "additions": 0,
+        "deletions": 691,
+        "changedFiles": 3
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#24",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 24,
+        "title": "perf(order): 핫딜 주문 지연 개선으로 처리량 2.8배 향상",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/24",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T08:54:40Z",
+        "createdAt": "2025-12-13T08:51:53Z",
+        "additions": 1751,
+        "deletions": 42,
+        "changedFiles": 24
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#23",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 23,
+        "title": "docs: fifo-ordering 문서를 stock-lock-contention으로 변경",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/23",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T05:33:48Z",
+        "createdAt": "2025-12-13T05:29:34Z",
+        "additions": 98,
+        "deletions": 200,
+        "changedFiles": 4
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#22",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 22,
+        "title": "perf(product): Go Channel FIFO 큐로 선착순 순서 보장",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/22",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T05:04:29Z",
+        "createdAt": "2025-12-13T05:04:04Z",
+        "additions": 583,
+        "deletions": 84,
+        "changedFiles": 11
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#21",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 21,
+        "title": "perf(order): Product/Order Service Go 전환으로 처리량 6.4배 향상",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/21",
+        "state": "MERGED",
+        "mergedAt": "2025-12-12T07:14:02Z",
+        "createdAt": "2025-12-12T07:12:27Z",
+        "additions": 6072,
+        "deletions": 312,
+        "changedFiles": 47
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "wickenico/WailBrew#168",
+      "repo": {
+        "owner": "wickenico",
+        "name": "WailBrew",
+        "nameWithOwner": "wickenico/WailBrew",
+        "url": "https://github.com/wickenico/WailBrew",
+        "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+        "stars": 1088,
+        "language": "TypeScript",
+        "topics": [
+          "go",
+          "homebrew",
+          "macos",
+          "react",
+          "tailwindcss",
+          "wails",
+          "gui",
+          "apple",
+          "typescript"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 168,
+        "title": "Add Korean translation support",
+        "url": "https://github.com/wickenico/WailBrew/pull/168",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T22:42:03Z",
+        "createdAt": "2025-12-12T06:34:31Z",
+        "additions": 550,
+        "deletions": 9,
+        "changedFiles": 14
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "wickenico/WailBrew#167",
+      "repo": {
+        "owner": "wickenico",
+        "name": "WailBrew",
+        "nameWithOwner": "wickenico/WailBrew",
+        "url": "https://github.com/wickenico/WailBrew",
+        "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+        "stars": 1088,
+        "language": "TypeScript",
+        "topics": [
+          "go",
+          "homebrew",
+          "macos",
+          "react",
+          "tailwindcss",
+          "wails",
+          "gui",
+          "apple",
+          "typescript"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 167,
+        "title": "Fix mirror source settings not persisting after restart",
+        "url": "https://github.com/wickenico/WailBrew/pull/167",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T23:06:46Z",
+        "createdAt": "2025-12-12T04:48:36Z",
+        "additions": 78,
+        "deletions": 10,
+        "changedFiles": 1
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#20",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 20,
+        "title": "feat(order): gRPC 통신 도입으로 주문 처리량 2.7배 향상",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/20",
+        "state": "MERGED",
+        "mergedAt": "2025-12-12T03:55:00Z",
+        "createdAt": "2025-12-11T07:55:39Z",
+        "additions": 945,
+        "deletions": 62,
+        "changedFiles": 17
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#19",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 19,
+        "title": "feat(auth): Kong JWT + Proxy Cache로 인증 CPU 병목 해결",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/19",
+        "state": "MERGED",
+        "mergedAt": "2025-12-10T13:54:00Z",
+        "createdAt": "2025-12-10T13:51:47Z",
+        "additions": 372,
+        "deletions": 47,
+        "changedFiles": 14
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#18",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 18,
+        "title": "docs: README 성능 개선 요약 테이블로 재구성",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/18",
+        "state": "MERGED",
+        "mergedAt": "2025-12-10T09:23:24Z",
+        "createdAt": "2025-12-10T09:19:53Z",
+        "additions": 29,
+        "deletions": 12,
+        "changedFiles": 1
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#17",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 17,
+        "title": "perf(gateway): Kong Gateway 도입으로 처리량 2배 개선",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/17",
+        "state": "MERGED",
+        "mergedAt": "2025-12-10T09:11:18Z",
+        "createdAt": "2025-12-10T09:09:57Z",
+        "additions": 146,
+        "deletions": 19,
+        "changedFiles": 3
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#16",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 16,
+        "title": "perf(gateway): httpx 커넥션 풀 재사용으로 처리량 3.7배 개선",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/16",
+        "state": "MERGED",
+        "mergedAt": "2025-12-10T08:55:43Z",
+        "createdAt": "2025-12-10T08:55:20Z",
+        "additions": 506,
+        "deletions": 207,
+        "changedFiles": 11
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#15",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 15,
+        "title": "perf(order): 주문 목록 조회 N+1 문제 해결",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/15",
+        "state": "MERGED",
+        "mergedAt": "2025-12-10T08:22:36Z",
+        "createdAt": "2025-12-10T06:59:56Z",
+        "additions": 580,
+        "deletions": 17,
+        "changedFiles": 7
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#14",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 14,
+        "title": "feat(product): 상품 목록 조회 Redis 캐싱 적용",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/14",
+        "state": "MERGED",
+        "mergedAt": "2025-12-09T12:38:19Z",
+        "createdAt": "2025-12-09T12:37:45Z",
+        "additions": 414,
+        "deletions": 69,
+        "changedFiles": 13
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#13",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 13,
+        "title": "test(load): k6 부하 테스트 환경 구성 및 E1 시나리오 실험",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/13",
+        "state": "MERGED",
+        "mergedAt": "2025-12-09T10:40:56Z",
+        "createdAt": "2025-12-09T10:39:49Z",
+        "additions": 291,
+        "deletions": 22,
+        "changedFiles": 6
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#12",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 12,
+        "title": "docs: 성능 시나리오 문서 구조화",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/12",
+        "state": "MERGED",
+        "mergedAt": "2025-12-09T09:24:24Z",
+        "createdAt": "2025-12-09T09:19:41Z",
+        "additions": 364,
+        "deletions": 9,
+        "changedFiles": 13
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#11",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 11,
+        "title": "feat(monitoring): OTel + Grafana 모니터링 스택 구성",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/11",
+        "state": "MERGED",
+        "mergedAt": "2025-12-08T08:31:54Z",
+        "createdAt": "2025-12-05T13:12:33Z",
+        "additions": 3083,
+        "deletions": 67,
+        "changedFiles": 14
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#10",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 10,
+        "title": "chore: makefile 개선 및 sqlc import 경로 수정",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/10",
+        "state": "MERGED",
+        "mergedAt": "2025-12-05T07:23:27Z",
+        "createdAt": "2025-12-05T07:21:07Z",
+        "additions": 40,
+        "deletions": 18,
+        "changedFiles": 5
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#9",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 9,
+        "title": "feat(order): order service 구현 및 마이그레이션 개선",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/9",
+        "state": "MERGED",
+        "mergedAt": "2025-12-05T07:00:58Z",
+        "createdAt": "2025-12-05T06:56:02Z",
+        "additions": 3183,
+        "deletions": 30,
+        "changedFiles": 32
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#8",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 8,
+        "title": "refactor: 환경변수 prefix 표준화",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/8",
+        "state": "MERGED",
+        "mergedAt": "2025-12-05T05:43:21Z",
+        "createdAt": "2025-12-05T05:42:54Z",
+        "additions": 61,
+        "deletions": 43,
+        "changedFiles": 11
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#7",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 7,
+        "title": "feat(product): Product 서비스 구현",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/7",
+        "state": "MERGED",
+        "mergedAt": "2025-12-05T05:31:56Z",
+        "createdAt": "2025-12-05T05:28:00Z",
+        "additions": 2900,
+        "deletions": 14,
+        "changedFiles": 25
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#6",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 6,
+        "title": "refactor: URL 라우팅 일관성 개선",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/6",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T10:35:56Z",
+        "createdAt": "2025-12-04T10:34:44Z",
+        "additions": 52,
+        "deletions": 17,
+        "changedFiles": 8
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#5",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 5,
+        "title": "feat(gateway): JWT 검증 미들웨어 추가",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/5",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T10:23:13Z",
+        "createdAt": "2025-12-04T10:22:52Z",
+        "additions": 199,
+        "deletions": 7,
+        "changedFiles": 4
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#4",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 4,
+        "title": "feat(auth): Auth 서비스 구현 및 integration test 환경 구성",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/4",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T10:00:43Z",
+        "createdAt": "2025-12-04T09:54:14Z",
+        "additions": 3343,
+        "deletions": 21,
+        "changedFiles": 39
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#3",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 3,
+        "title": "feat(gateway): API Gateway 기본 라우팅 구현",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/3",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T01:53:59Z",
+        "createdAt": "2025-12-04T01:53:02Z",
+        "additions": 1562,
+        "deletions": 17,
+        "changedFiles": 14
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#2",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 2,
+        "title": "chore(infra): Docker Compose 및 golang-migrate 설정",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/2",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T00:59:25Z",
+        "createdAt": "2025-12-04T00:58:45Z",
+        "additions": 127,
+        "deletions": 3,
+        "changedFiles": 8
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "moseoh-org/flash-deals#1",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "flash-deals",
+        "nameWithOwner": "moseoh-org/flash-deals",
+        "url": "https://github.com/moseoh-org/flash-deals",
+        "description": null,
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 1,
+        "title": "docs(api-spec): add OpenAPI specifications for MSA services",
+        "url": "https://github.com/moseoh-org/flash-deals/pull/1",
+        "state": "MERGED",
+        "mergedAt": "2025-12-04T00:49:21Z",
+        "createdAt": "2025-12-04T00:45:55Z",
+        "additions": 1552,
+        "deletions": 0,
+        "changedFiles": 6
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "self-hosted-actions/cache#1",
+      "repo": {
+        "owner": "self-hosted-actions",
+        "name": "cache",
+        "nameWithOwner": "self-hosted-actions/cache",
+        "url": "https://github.com/self-hosted-actions/cache",
+        "description": "Cache dependencies and build outputs in GitHub Actions",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 1,
+        "title": "feat(cache): 로컬 파일시스템 캐시 지원 추가",
+        "url": "https://github.com/self-hosted-actions/cache/pull/1",
+        "state": "MERGED",
+        "mergedAt": "2025-11-07T09:50:06Z",
+        "createdAt": "2025-11-07T09:49:50Z",
+        "additions": 227,
+        "deletions": 266529,
+        "changedFiles": 13
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "open-telemetry/opentelemetry-collector-contrib#41036",
+      "repo": {
+        "owner": "open-telemetry",
+        "name": "opentelemetry-collector-contrib",
+        "nameWithOwner": "open-telemetry/opentelemetry-collector-contrib",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+        "description": "Contrib repository for the OpenTelemetry Collector",
+        "stars": 4240,
+        "language": "Go",
+        "topics": [
+          "opentelemetry",
+          "open-telemetry"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 41036,
+        "title": "[receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036",
+        "state": "MERGED",
+        "mergedAt": "2025-07-01T17:54:28Z",
+        "createdAt": "2025-07-01T13:44:10Z",
+        "additions": 59,
+        "deletions": 1,
+        "changedFiles": 3
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "WeDataLab-AI-Lab/.github#5",
+      "repo": {
+        "owner": "WeDataLab-AI-Lab",
+        "name": ".github",
+        "nameWithOwner": "WeDataLab-AI-Lab/.github",
+        "url": "https://github.com/WeDataLab-AI-Lab/.github",
+        "description": "Wedatalab",
+        "stars": 0,
+        "language": null,
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 5,
+        "title": "docs: WriterSide GitHub Page 배포 테스트",
+        "url": "https://github.com/WeDataLab-AI-Lab/.github/pull/5",
+        "state": "MERGED",
+        "mergedAt": "2024-06-20T04:47:28Z",
+        "createdAt": "2024-06-20T04:46:43Z",
+        "additions": 164,
+        "deletions": 2,
+        "changedFiles": 17
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    },
+    {
+      "id": "WeDataLab-AI-Lab/.github#3",
+      "repo": {
+        "owner": "WeDataLab-AI-Lab",
+        "name": ".github",
+        "nameWithOwner": "WeDataLab-AI-Lab/.github",
+        "url": "https://github.com/WeDataLab-AI-Lab/.github",
+        "description": "Wedatalab",
+        "stars": 0,
+        "language": null,
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 3,
+        "title": "feat: profile README.md",
+        "url": "https://github.com/WeDataLab-AI-Lab/.github/pull/3",
+        "state": "MERGED",
+        "mergedAt": "2024-06-17T10:38:46Z",
+        "createdAt": "2024-06-17T10:32:51Z",
+        "additions": 10,
+        "deletions": 0,
+        "changedFiles": 1
+      },
+      "collectedAt": "2025-12-18T08:31:08.637Z"
+    }
+  ]
+}

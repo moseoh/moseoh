@@ -13,24 +13,20 @@
 
 
 
-
-
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.7.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.7.0), about 1 month ago) - GitHub Action to install QEMU static binaries
-
-
-
 #### 🎉 Opensource Contributions
 
 
-
-
-
-
-
-
-
-
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
+
+
+
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
+
+
+
+
+
+
 
 
 
