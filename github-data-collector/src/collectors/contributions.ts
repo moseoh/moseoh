@@ -1,11 +1,11 @@
 import { GitHubClient } from '../github'
 import { DataStore } from '../storage'
-import type { Contribution, ContributionsData, CollectorConfig } from '../types'
+import type { Contribution, ContributionsData, ContributionsCollectorConfig } from '../types'
 
 export interface ContributionsCollectorOptions {
   username: string
   dataPath: string
-  config: CollectorConfig
+  config: ContributionsCollectorConfig
 }
 
 export class ContributionsCollector {
@@ -25,28 +25,39 @@ export class ContributionsCollector {
     data: ContributionsData
   }> {
     const { username, config } = this.options
-    const excludeOwners = new Set(config.exclude?.owners ?? [])
-    const excludeRepos = new Set(config.exclude?.repos ?? [])
+    const now = new Date().toISOString()
 
-    // Fetch merged PRs from GitHub
-    const prs = await this.client.getMergedPullRequests(username, config.apiLimit ?? 99)
+    // Load existing data
+    const existingData = await this.store.load()
+    const existingItems = existingData.items
+    const existingIds = new Set(existingItems.map((item) => item.id))
 
-    // Filter external contributions (exclude own repos/orgs)
-    const externalPRs = prs.filter((item) => {
-      // Skip if owner is in exclude list
-      if (excludeOwners.has(item.repo.owner)) {
-        return false
-      }
-      // Skip if repo is in exclude list
-      if (excludeRepos.has(item.repo.name) || excludeRepos.has(item.repo.nameWithOwner)) {
-        return false
-      }
-      return true
-    })
+    // Find oldest saved date
+    const oldestSavedDate =
+      existingItems.length > 0
+        ? new Date(
+            Math.min(
+              ...existingItems.map((item) =>
+                new Date(item.pr.mergedAt || item.pr.createdAt).getTime()
+              )
+            )
+          )
+        : null
+
+    // Calculate target date: min(oldestSavedDate, sinceDate) or default to 1 year ago
+    const sinceDate = config.sinceDate
+      ? new Date(config.sinceDate)
+      : new Date(Date.now() - 365 * 24 * 60 * 60 * 1000)
+
+    const targetDate = oldestSavedDate
+      ? new Date(Math.min(oldestSavedDate.getTime(), sinceDate.getTime()))
+      : sinceDate
+
+    // Fetch PRs with pagination until target date
+    const prs = await this.client.getMergedPullRequestsUntil(username, targetDate, existingIds)
 
     // Convert to Contribution format
-    const now = new Date().toISOString()
-    const contributions: Contribution[] = externalPRs.map((item) => ({
+    const contributions: Contribution[] = prs.map((item) => ({
       id: `${item.repo.nameWithOwner}#${item.pr.number}`,
       repo: item.repo,
       pr: item.pr,

@@ -24,22 +24,13 @@ export class RecentWorkCollector {
     data: RecentWorkData
   }> {
     const { username, config } = this.options
-    const excludeRepos = new Set(config.exclude?.repos ?? [])
 
     // Fetch recently pushed repos
     const repos = await this.client.getRecentRepos(username, config.apiLimit ?? 10)
 
-    // Filter excluded repos
-    const filteredRepos = repos.filter((item) => {
-      if (excludeRepos.has(item.repo.name) || excludeRepos.has(item.repo.nameWithOwner)) {
-        return false
-      }
-      return true
-    })
-
-    // Convert to RecentWorkItem format
+    // Convert to RecentWorkItem format (no filtering - all data collected)
     const now = new Date().toISOString()
-    const items: RecentWorkItem[] = filteredRepos.map((item) => ({
+    const items: RecentWorkItem[] = repos.map((item) => ({
       id: item.repo.nameWithOwner,
       repo: item.repo,
       pushedAt: item.pushedAt,

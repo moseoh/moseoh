@@ -22,14 +22,14 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-          cache-dependency-path: github-profile-gen/package-lock.json
+          cache-dependency-path: github-data-collector/package-lock.json
 
       - name: Install dependencies
-        working-directory: github-profile-gen
+        working-directory: github-data-collector
         run: npm ci
 
       - name: Build
-        working-directory: github-profile-gen
+        working-directory: github-data-collector
         run: npm run build
 
       - name: Generate README
@@ -38,7 +38,7 @@ jobs:
           INPUT_GITHUB-TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           INPUT_CONFIG-PATH: .github/profile-gen.yml
           INPUT_USERNAME: moseoh
-        run: node github-profile-gen/dist/index.js
+        run: node github-data-collector/dist/index.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

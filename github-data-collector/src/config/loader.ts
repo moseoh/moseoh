@@ -6,28 +6,15 @@ const DEFAULT_CONFIG: Config = {
   collectors: {
     contributions: {
       enabled: true,
-      apiLimit: 99,
-      displayLimit: 5,
-      exclude: {
-        owners: [],
-        repos: [],
-      },
+      // sinceDate is optional, defaults to 1 year ago in collector
     },
     releases: {
       enabled: true,
-      apiLimit: 15,
-      displayLimit: 5,
-      exclude: {
-        repos: [],
-      },
+      // sinceDate is optional, defaults to 1 year ago in collector
     },
     recentWork: {
       enabled: true,
       apiLimit: 10,
-      displayLimit: 5,
-      exclude: {
-        repos: [],
-      },
     },
     stars: {
       enabled: true,
@@ -40,11 +27,10 @@ const DEFAULT_CONFIG: Config = {
     },
   },
   paths: {
-    template: 'templates/README.md.tpl',
+    template: 'templates/README.md.liquid',
     output: 'README.md',
     data: 'data',
   },
-  variables: {},
 }
 
 export async function loadConfig(configPath: string): Promise<Config> {
@@ -64,26 +50,14 @@ function mergeConfig(defaults: Config, user: Partial<Config>): Config {
       contributions: {
         ...defaults.collectors.contributions,
         ...user.collectors?.contributions,
-        exclude: {
-          ...defaults.collectors.contributions.exclude,
-          ...user.collectors?.contributions?.exclude,
-        },
       },
       releases: {
         ...defaults.collectors.releases,
         ...user.collectors?.releases,
-        exclude: {
-          ...defaults.collectors.releases.exclude,
-          ...user.collectors?.releases?.exclude,
-        },
       },
       recentWork: {
         ...defaults.collectors.recentWork,
         ...user.collectors?.recentWork,
-        exclude: {
-          ...defaults.collectors.recentWork.exclude,
-          ...user.collectors?.recentWork?.exclude,
-        },
       },
       stars: {
         ...defaults.collectors.stars,
@@ -97,10 +71,6 @@ function mergeConfig(defaults: Config, user: Partial<Config>): Config {
     paths: {
       ...defaults.paths,
       ...user.paths,
-    },
-    variables: {
-      ...defaults.variables,
-      ...user.variables,
     },
   }
 }

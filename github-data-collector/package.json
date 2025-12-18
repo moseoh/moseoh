@@ -1,7 +1,7 @@
 {
-  "name": "github-profile-gen",
+  "name": "github-data-collector",
   "version": "0.1.0",
-  "description": "Generate and update your GitHub profile README with contributions, releases, and more",
+  "description": "Collect GitHub data and generate profile README using Liquid templates",
   "main": "dist/index.js",
   "scripts": {
     "build": "ncc build src/index.ts -o dist --source-map --license licenses.txt",
@@ -26,7 +26,7 @@
     "@actions/github": "^6.0.0",
     "@octokit/graphql": "^8.1.1",
     "date-fns": "^4.1.0",
-    "handlebars": "^4.7.8",
+    "liquidjs": "^10.10.0",
     "yaml": "^2.6.1",
     "zod": "^3.24.1"
   },

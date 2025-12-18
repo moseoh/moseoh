@@ -1,42 +1,25 @@
-# github-profile-gen configuration
+# github-data-collector configuration
 
 collectors:
   contributions:
     enabled: true
-    apiLimit: 99
-    displayLimit: 5
-    exclude:
-      owners:
-        - moseoh
-        - moseoh-org
-      repos: []
+    sinceDate: "2024-01-01"  # Fetch all contributions since this date
 
   releases:
     enabled: true
-    apiLimit: 15
-    displayLimit: 5
-    exclude:
-      repos:
-        - mst
+    sinceDate: "2024-01-01"  # Fetch all releases since this date
 
   recentWork:
     enabled: true
     apiLimit: 10
-    displayLimit: 5
-    exclude:
-      repos: []
 
   stars:
     enabled: true
-    trackHistory: true
 
   rss:
     enabled: false
 
 paths:
-  template: templates/README.md.tpl
+  template: templates/README.md.liquid
   output: README.md
   data: data
-
-variables:
-  greeting: "Hi there"

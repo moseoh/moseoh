@@ -30,7 +30,7 @@ async function run(): Promise<void> {
       throw new Error('Username is required. Set it via input or GITHUB_REPOSITORY_OWNER env.')
     }
 
-    core.info(`Running github-profile-gen for user: ${username}`)
+    core.info(`Running github-data-collector for user: ${username}`)
 
     // Load config
     const config = await loadConfig(configPath)
@@ -68,7 +68,7 @@ async function run(): Promise<void> {
       })
       const result = await collector.collect()
       releases = result.data
-      core.info(`Releases: ${result.items.length} items`)
+      core.info(`Releases: ${result.added.length} new, ${result.total} total`)
     }
 
     // Collect recent work
@@ -106,8 +106,6 @@ async function run(): Promise<void> {
       recentWork: recentWork.items,
       stars,
       rss,
-      config,
-      variables: config.variables,
     }
 
     // Read template
@@ -117,7 +115,7 @@ async function run(): Promise<void> {
 
     // Render README
     const engine = new TemplateEngine()
-    const readme = engine.render(template, templateData as unknown as Record<string, unknown>)
+    const readme = await engine.render(template, templateData as unknown as Record<string, unknown>)
 
     // Write output
     if (!dryRun) {

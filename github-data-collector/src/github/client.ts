@@ -46,6 +46,10 @@ interface GqlPullRequest {
 interface MergedPRsResponse {
   user: {
     pullRequests: {
+      pageInfo: {
+        hasNextPage: boolean
+        endCursor: string | null
+      }
       nodes: GqlPullRequest[]
     }
   }
@@ -54,6 +58,10 @@ interface MergedPRsResponse {
 interface RecentReleasesResponse {
   user: {
     repositoriesContributedTo: {
+      pageInfo: {
+        hasNextPage: boolean
+        endCursor: string | null
+      }
       nodes: GqlRepository[]
     }
   }
@@ -134,39 +142,121 @@ export class GitHubClient {
     })
   }
 
-  async getMergedPullRequests(
+  async getMergedPullRequestsUntil(
     username: string,
-    limit: number = 99
+    untilDate: Date,
+    existingIds: Set<string>
   ): Promise<Array<{ repo: Repository; pr: PullRequest }>> {
-    const response = await this.client<MergedPRsResponse>(MERGED_PULL_REQUESTS_QUERY, {
-      username,
-      limit: Math.min(limit, 99), // GitHub API limit
-    })
+    const results: Array<{ repo: Repository; pr: PullRequest }> = []
+    let cursor: string | null = null
+    let hasNextPage = true
 
-    return response.user.pullRequests.nodes
-      .filter((pr) => !pr.repository.isPrivate)
-      .map((pr) => ({
-        repo: mapRepository(pr.repository),
-        pr: mapPullRequest(pr),
-      }))
+    while (hasNextPage) {
+      const response: MergedPRsResponse = await this.client<MergedPRsResponse>(
+        MERGED_PULL_REQUESTS_QUERY,
+        {
+          username,
+          limit: 100,
+          cursor,
+        }
+      )
+
+      const pageInfo = response.user.pullRequests.pageInfo
+      const prs = response.user.pullRequests.nodes
+
+      for (const pr of prs) {
+        // Skip private repos
+        if (pr.repository.isPrivate) continue
+
+        const prDate = new Date(pr.mergedAt || pr.createdAt)
+
+        // Stop if we've reached the target date
+        if (prDate < untilDate) {
+          hasNextPage = false
+          break
+        }
+
+        // Skip if already exists
+        const prId = `${pr.repository.nameWithOwner}#${pr.number}`
+        if (existingIds.has(prId)) continue
+
+        results.push({
+          repo: mapRepository(pr.repository),
+          pr: mapPullRequest(pr),
+        })
+      }
+
+      // Check for more pages
+      if (hasNextPage) {
+        hasNextPage = pageInfo.hasNextPage
+        cursor = pageInfo.endCursor
+      }
+    }
+
+    return results
   }
 
-  async getRecentReleases(
+  async getReleasesUntil(
     username: string,
-    limit: number = 15
+    untilDate: Date,
+    existingRepoIds: Set<string>
   ): Promise<Array<{ repo: Repository; release: Release }>> {
-    const response = await this.client<RecentReleasesResponse>(RECENT_RELEASES_QUERY, {
-      username,
-      limit: Math.min(limit, 100),
-    })
+    const results: Array<{ repo: Repository; release: Release }> = []
+    let cursor: string | null = null
+    let hasNextPage = true
 
-    return response.user.repositoriesContributedTo.nodes
-      .filter((repo) => !repo.isPrivate && repo.releases?.nodes.length)
-      .map((repo) => ({
-        repo: mapRepository(repo),
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        release: mapRelease(repo.releases!.nodes[0]!),
-      }))
+    while (hasNextPage) {
+      const response: RecentReleasesResponse = await this.client<RecentReleasesResponse>(
+        RECENT_RELEASES_QUERY,
+        {
+          username,
+          limit: 100,
+          cursor,
+        }
+      )
+
+      const pageInfo = response.user.repositoriesContributedTo.pageInfo
+      const repos = response.user.repositoriesContributedTo.nodes
+
+      for (const repo of repos) {
+        // Skip private repos or repos without releases
+        if (repo.isPrivate || !repo.releases?.nodes.length) continue
+
+        const release = repo.releases.nodes[0]!
+        const releaseDate = new Date(release.publishedAt)
+
+        // Stop if release is older than target date
+        if (releaseDate < untilDate) {
+          // Continue checking other repos in this page, but mark to stop after
+          continue
+        }
+
+        // Skip if repo already exists
+        const repoId = repo.nameWithOwner
+        if (existingRepoIds.has(repoId)) continue
+
+        results.push({
+          repo: mapRepository(repo),
+          release: mapRelease(release),
+        })
+      }
+
+      // Check for more pages
+      hasNextPage = pageInfo.hasNextPage
+      cursor = pageInfo.endCursor
+
+      // If all releases in this page are older than untilDate, stop
+      const allOlderThanTarget = repos.every((repo) => {
+        if (!repo.releases?.nodes.length) return true
+        const releaseDate = new Date(repo.releases.nodes[0]!.publishedAt)
+        return releaseDate < untilDate
+      })
+      if (allOlderThanTarget) {
+        hasNextPage = false
+      }
+    }
+
+    return results
   }
 
   async getRecentRepos(

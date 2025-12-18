@@ -1,11 +1,16 @@
 export const MERGED_PULL_REQUESTS_QUERY = `
-  query($username: String!, $limit: Int!) {
+  query($username: String!, $limit: Int!, $cursor: String) {
     user(login: $username) {
       pullRequests(
         first: $limit
+        after: $cursor
         states: MERGED
         orderBy: { field: CREATED_AT, direction: DESC }
       ) {
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
         nodes {
           number
           title
@@ -44,13 +49,18 @@ export const MERGED_PULL_REQUESTS_QUERY = `
 `
 
 export const RECENT_RELEASES_QUERY = `
-  query($username: String!, $limit: Int!) {
+  query($username: String!, $limit: Int!, $cursor: String) {
     user(login: $username) {
       repositoriesContributedTo(
         first: $limit
+        after: $cursor
         contributionTypes: [COMMIT, PULL_REQUEST]
         orderBy: { field: PUSHED_AT, direction: DESC }
       ) {
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
         nodes {
           owner {
             login

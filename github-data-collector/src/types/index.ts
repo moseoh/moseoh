@@ -112,11 +112,16 @@ export interface RssData {
 export interface CollectorConfig {
   enabled: boolean
   apiLimit?: number
-  displayLimit?: number
-  exclude?: {
-    owners?: string[]
-    repos?: string[]
-  }
+}
+
+export interface ContributionsCollectorConfig {
+  enabled: boolean
+  sinceDate?: string // ISO date string (e.g., "2024-01-01")
+}
+
+export interface ReleasesCollectorConfig {
+  enabled: boolean
+  sinceDate?: string // ISO date string (e.g., "2024-01-01")
 }
 
 export interface RssCollectorConfig extends CollectorConfig {
@@ -133,8 +138,8 @@ export interface StarsCollectorConfig extends CollectorConfig {
 
 export interface Config {
   collectors: {
-    contributions: CollectorConfig
-    releases: CollectorConfig
+    contributions: ContributionsCollectorConfig
+    releases: ReleasesCollectorConfig
     recentWork: CollectorConfig
     stars: StarsCollectorConfig
     rss: RssCollectorConfig
@@ -144,7 +149,6 @@ export interface Config {
     output: string
     data: string
   }
-  variables: Record<string, unknown>
 }
 
 // ===== Template Data =====
@@ -154,8 +158,6 @@ export interface TemplateData {
   recentWork: RecentWorkItem[]
   stars: StarsData
   rss: RssData
-  config: Config
-  variables: Record<string, unknown>
 }
 
 // ===== Collector Interface =====

@@ -1,5 +1,5 @@
-name: 'GitHub Profile Generator'
-description: 'Generate and update your GitHub profile README with contributions, releases, and more'
+name: 'GitHub Data Collector'
+description: 'Collect GitHub data and generate profile README using Liquid templates'
 author: 'moseoh'
 
 branding:
