@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T00:35:38.770Z",
+  "lastUpdated": "2025-12-18T06:07:08.179Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -21,7 +21,7 @@
         "publishedAt": "2025-12-15T23:00:50Z",
         "isPrerelease": false
       },
-      "collectedAt": "2025-12-18T00:35:38.770Z"
+      "collectedAt": "2025-12-18T06:07:08.178Z"
     },
     {
       "id": "wickenico/WailBrew",
@@ -43,7 +43,7 @@
         "publishedAt": "2025-12-14T22:01:34Z",
         "isPrerelease": false
       },
-      "collectedAt": "2025-12-18T00:35:38.770Z"
+      "collectedAt": "2025-12-18T06:07:08.178Z"
     },
     {
       "id": "self-hosted-actions/cache",
@@ -65,7 +65,7 @@
         "publishedAt": "2025-11-07T10:06:14Z",
         "isPrerelease": true
       },
-      "collectedAt": "2025-12-18T00:35:38.770Z"
+      "collectedAt": "2025-12-18T06:07:08.178Z"
     },
     {
       "id": "docker/setup-qemu-action",
@@ -87,7 +87,7 @@
         "publishedAt": "2025-11-05T15:03:37Z",
         "isPrerelease": false
       },
-      "collectedAt": "2025-12-18T00:35:38.770Z"
+      "collectedAt": "2025-12-18T06:07:08.178Z"
     }
   ]
 }
