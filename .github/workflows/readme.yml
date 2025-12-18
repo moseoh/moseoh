@@ -3,10 +3,6 @@ name: Update Profile README
 on:
   push:
     branches: [main]
-    paths:
-      - 'templates/**'
-      - '.github/profile-gen.yml'
-      - 'github-profile-gen/**'
   schedule:
     - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:
