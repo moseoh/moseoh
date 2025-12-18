@@ -1,0 +1,103 @@
+{
+  "lastUpdated": "2025-12-18T00:02:59.755Z",
+  "items": [
+    {
+      "id": "wickenico/WailBrew#168",
+      "repo": {
+        "owner": "wickenico",
+        "name": "WailBrew",
+        "nameWithOwner": "wickenico/WailBrew",
+        "url": "https://github.com/wickenico/WailBrew",
+        "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+        "stars": 1086,
+        "language": "TypeScript",
+        "topics": [
+          "go",
+          "homebrew",
+          "macos",
+          "react",
+          "tailwindcss",
+          "wails",
+          "gui",
+          "apple",
+          "typescript"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 168,
+        "title": "Add Korean translation support",
+        "url": "https://github.com/wickenico/WailBrew/pull/168",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T22:42:03Z",
+        "createdAt": "2025-12-12T06:34:31Z",
+        "additions": 550,
+        "deletions": 9,
+        "changedFiles": 14
+      },
+      "collectedAt": "2025-12-18T00:02:59.755Z"
+    },
+    {
+      "id": "wickenico/WailBrew#167",
+      "repo": {
+        "owner": "wickenico",
+        "name": "WailBrew",
+        "nameWithOwner": "wickenico/WailBrew",
+        "url": "https://github.com/wickenico/WailBrew",
+        "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+        "stars": 1086,
+        "language": "TypeScript",
+        "topics": [
+          "go",
+          "homebrew",
+          "macos",
+          "react",
+          "tailwindcss",
+          "wails",
+          "gui",
+          "apple",
+          "typescript"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 167,
+        "title": "Fix mirror source settings not persisting after restart",
+        "url": "https://github.com/wickenico/WailBrew/pull/167",
+        "state": "MERGED",
+        "mergedAt": "2025-12-13T23:06:46Z",
+        "createdAt": "2025-12-12T04:48:36Z",
+        "additions": 78,
+        "deletions": 10,
+        "changedFiles": 1
+      },
+      "collectedAt": "2025-12-18T00:02:59.755Z"
+    },
+    {
+      "id": "self-hosted-actions/cache#1",
+      "repo": {
+        "owner": "self-hosted-actions",
+        "name": "cache",
+        "nameWithOwner": "self-hosted-actions/cache",
+        "url": "https://github.com/self-hosted-actions/cache",
+        "description": "Cache dependencies and build outputs in GitHub Actions",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 1,
+        "title": "feat(cache): 로컬 파일시스템 캐시 지원 추가",
+        "url": "https://github.com/self-hosted-actions/cache/pull/1",
+        "state": "MERGED",
+        "mergedAt": "2025-11-07T09:50:06Z",
+        "createdAt": "2025-11-07T09:49:50Z",
+        "additions": 227,
+        "deletions": 266529,
+        "changedFiles": 13
+      },
+      "collectedAt": "2025-12-18T00:02:59.755Z"
+    }
+  ]
+}

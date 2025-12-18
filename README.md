@@ -3,21 +3,19 @@
 #### 🚀 Latest releases I've contributed to
 - [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.142.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.142.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
 - [WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.4](https://github.com/wickenico/WailBrew/releases/tag/v0.9.4), 3 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [programmers_helper](https://github.com/moseoh/programmers_helper) ([v0.2.2](https://github.com/moseoh/programmers_helper/releases/tag/v0.2.2), 3 days ago) - Programmers 문제풀이 도움 Plugin
+- [cache](https://github.com/self-hosted-actions/cache) ([v4](https://github.com/self-hosted-actions/cache/releases/tag/v4), about 1 month ago) - Cache dependencies and build outputs in GitHub Actions
+- [setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.7.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.7.0), about 1 month ago) - GitHub Action to install QEMU static binaries
 
 #### 🎉 Opensource Contributions
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 - [self-hosted-actions/cache](https://github.com/self-hosted-actions/cache) - [#1](https://github.com/self-hosted-actions/cache/pull/1) feat(cache): 로컬 파일시스템 캐시 지원 추가
 
-<!-- DEBUG: 최근 PR 목록 (State 무관) -->
-<!-- wickenico/WailBrew | State: OPEN | Optimize brew call performance with caching -->
-<!-- moseoh/mst | State: MERGED | test: vitest 테스트 환경 구성 및 단위 테스트 추가 -->
-<!-- moseoh/programmers_helper | State: MERGED | chore: release v0.2.2 -->
-<!-- moseoh/programmers_helper | State: MERGED | fix(test): IntelliJ Platform 테스트 프레임워크 호환성 수정 -->
-<!-- moseoh/programmers_helper | State: MERGED | ci: GitHub Actions 워크플로우 개선 및 릴리즈 자동화 -->
-<!-- moseoh/code-template | State: MERGED | chore: devconfig 디렉토리 제거 -->
-<!-- moseoh/mst | State: MERGED | chore: exclude release PR from changelog -->
-<!-- moseoh/mst | State: MERGED | chore: release v1.0.3 -->
-<!-- moseoh/mst | State: MERGED | refactor(cli): read version from package.json -->
-<!-- moseoh/mst | State: MERGED | chore: release v1.0.2 -->
+#### 👷 Check out what I'm currently working on
+- [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (less than a minute ago)
+- [moseoh/go-feature-flag](https://github.com/moseoh/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [moseoh/WailBrew](https://github.com/moseoh/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React. (3 days ago)
+- [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (4 days ago)
+- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (4 days ago)
+
+#### ⭐ Total Stars: 8

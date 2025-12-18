@@ -1,0 +1,306 @@
+{
+  "lastUpdated": "2025-12-18T00:03:01.690Z",
+  "totalStars": 8,
+  "repositories": [
+    {
+      "nameWithOwner": "moseoh/programmers_helper",
+      "url": "https://github.com/moseoh/programmers_helper",
+      "description": "Programmers 문제풀이 도움 Plugin",
+      "stars": 6,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 6
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/assistant",
+      "url": "https://github.com/moseoh/assistant",
+      "description": "Mybatis 쿼리문 생성기",
+      "stars": 1,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/Project_Foret",
+      "url": "https://github.com/moseoh/Project_Foret",
+      "description": "# 스터디 모임 어플",
+      "stars": 1,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/go-feature-flag",
+      "url": "https://github.com/moseoh/go-feature-flag",
+      "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/mst",
+      "url": "https://github.com/moseoh/mst",
+      "description": "Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/WailBrew",
+      "url": "https://github.com/moseoh/WailBrew",
+      "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/troi-front",
+      "url": "https://github.com/moseoh/troi-front",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/ai-k8s-practice",
+      "url": "https://github.com/moseoh/ai-k8s-practice",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/resume-maker",
+      "url": "https://github.com/moseoh/resume-maker",
+      "description": "Resume builder with PDF generation, multiple templates, and personal career management system",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/code-template",
+      "url": "https://github.com/moseoh/code-template",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/blog.moseoh.com",
+      "url": "https://github.com/moseoh/blog.moseoh.com",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/polarnote",
+      "url": "https://github.com/moseoh/polarnote",
+      "description": "A modern, performant blog powered by Astro.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/goback",
+      "url": "https://github.com/moseoh/goback",
+      "description": "A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/personal-assistant-github-app",
+      "url": "https://github.com/moseoh/personal-assistant-github-app",
+      "description": "A GitHub App that automates personal repository tasks like issue management and pull request labeling.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/github-template",
+      "url": "https://github.com/moseoh/github-template",
+      "description": "Template Repository",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/opentelemetry-collector-contrib",
+      "url": "https://github.com/moseoh/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/blog-code-example",
+      "url": "https://github.com/moseoh/blog-code-example",
+      "description": "Blog 포스팅용 예제 코드",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/actions.add-reviewers",
+      "url": "https://github.com/moseoh/actions.add-reviewers",
+      "description": "Add Reviewers 자동화 Github Actions",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/actions.pull-request-validator",
+      "url": "https://github.com/moseoh/actions.pull-request-validator",
+      "description": "Pull Request 자동화 Github Actions",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/Easy-DDSP-SVC-private",
+      "url": "https://github.com/moseoh/Easy-DDSP-SVC-private",
+      "description": "음성 학습 및 보컬 변환 DDSP SVC",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/kpa",
+      "url": "https://github.com/moseoh/kpa",
+      "description": "Kotlin + JPA 플러그인 like jpa buddy",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/moseoh_homepage",
+      "url": "https://github.com/moseoh/moseoh_homepage",
+      "description": "포트폴리오용 개인서버 홈페이지",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/algorithm",
+      "url": "https://github.com/moseoh/algorithm",
+      "description": "코딩 문제 풀이",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/moseoh",
+      "url": "https://github.com/moseoh/moseoh",
+      "description": "My personal repository",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/Study",
+      "url": "https://github.com/moseoh/Study",
+      "description": "기본, 구현 공부",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    }
+  ]
+}
