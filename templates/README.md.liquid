@@ -1,4 +1,4 @@
-{%- assign excludeOwners = "moseoh moseoh-org self-hosted-actions" | split: " " -%}
+{%- assign excludeOwners = "moseoh moseoh-org self-hosted-actions WeDataLab-AI-Lab" | split: " " -%}
 
 ### Hi there 👋
 
@@ -13,7 +13,7 @@
 {%- endunless -%}
 {%- endfor %}
 
-#### 🎉 Opensource Contributions
+#### 🎉 My merged PRs
 {%- assign contribCount = 0 -%}
 {%- for item in contributions -%}
 {%- unless excludeOwners contains item.repo.owner -%}
