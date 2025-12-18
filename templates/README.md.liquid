@@ -17,7 +17,7 @@
 {%- assign contribCount = 0 -%}
 {%- for item in contributions -%}
 {%- unless excludeOwners contains item.repo.owner -%}
-{%- if contribCount < 5 %}
+{%- if contribCount < 10 %}
 - [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}) - [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
 {%- assign contribCount = contribCount | plus: 1 -%}
 {%- endif -%}
