@@ -54,7 +54,7 @@ export const RECENT_RELEASES_QUERY = `
       repositoriesContributedTo(
         first: $limit
         after: $cursor
-        contributionTypes: [COMMIT, PULL_REQUEST]
+        contributionTypes: [COMMIT]
         orderBy: { field: PUSHED_AT, direction: DESC }
       ) {
         pageInfo {

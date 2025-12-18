@@ -168,6 +168,9 @@ export class GitHubClient {
         // Skip private repos
         if (pr.repository.isPrivate) continue
 
+        // Skip own repos (only include contributions to other repos)
+        if (pr.repository.owner.login.toLowerCase() === username.toLowerCase()) continue
+
         const prDate = new Date(pr.mergedAt || pr.createdAt)
 
         // Stop if we've reached the target date
