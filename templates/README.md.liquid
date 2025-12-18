@@ -1,28 +1,36 @@
-{% assign excludeOwners = "moseoh moseoh-org self-hosted-actions" | split: " " %}
+{%- assign excludeOwners = "moseoh moseoh-org self-hosted-actions" | split: " " -%}
 
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-{% for item in releases limit:5 %}
-{% unless excludeOwners contains item.repo.owner %}
+{%- assign releaseCount = 0 -%}
+{%- for item in releases -%}
+{%- unless excludeOwners contains item.repo.owner -%}
+{%- if releaseCount < 5 %}
 - [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}) ([{{ item.release.tagName }}]({{ item.release.url }}), {{ item.release.publishedAt | humanize }}){% if item.repo.description %} - {{ item.repo.description }}{% endif %}
-{% endunless %}
-{% endfor %}
+{%- assign releaseCount = releaseCount | plus: 1 -%}
+{%- endif -%}
+{%- endunless -%}
+{%- endfor %}
 
 #### 🎉 Opensource Contributions
-{% for item in contributions limit:5 %}
-{% unless excludeOwners contains item.repo.owner %}
+{%- assign contribCount = 0 -%}
+{%- for item in contributions -%}
+{%- unless excludeOwners contains item.repo.owner -%}
+{%- if contribCount < 5 %}
 - [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}) - [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
-{% endunless %}
-{% endfor %}
+{%- assign contribCount = contribCount | plus: 1 -%}
+{%- endif -%}
+{%- endunless -%}
+{%- endfor %}
 
-{% if recentWork.size > 0 %}
+{%- if recentWork.size > 0 %}
 #### 👷 Check out what I'm currently working on
-{% for item in recentWork limit:5 %}
+{%- for item in recentWork limit:5 %}
 - [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}){% if item.repo.description %} - {{ item.repo.description }}{% endif %} ({{ item.pushedAt | humanize }})
-{% endfor %}
-{% endif %}
+{%- endfor %}
+{%- endif %}
 
-{% if stars.totalStars %}
+{%- if stars.totalStars %}
 #### ⭐ Total Stars: {{ stars.totalStars }}
-{% endif %}
+{%- endif %}
