@@ -42,8 +42,7 @@ jobs:
           INPUT_GITHUB-TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           INPUT_CONFIG-PATH: .github/profile-gen.yml
           INPUT_USERNAME: moseoh
-        working-directory: github-profile-gen
-        run: node dist/index.js
+        run: node github-profile-gen/dist/index.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
