@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T00:17:22.570Z",
+  "lastUpdated": "2025-12-23T06:06:39.340Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,30 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/moseoh-lab",
+      "url": "https://github.com/moseoh/moseoh-lab",
+      "description": "Experimental automation lab - personal tools and integrations",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-23",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/events",
+      "url": "https://github.com/moseoh/events",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-23",
+          "stars": 0
         }
       ]
     },
