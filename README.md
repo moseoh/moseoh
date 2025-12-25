@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.142.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.142.0), 9 days ago) - Contrib repository for the OpenTelemetry Collector
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.4](https://github.com/wickenico/WailBrew/releases/tag/v0.9.4), 10 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.142.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.142.0), 10 days ago) - Contrib repository for the OpenTelemetry Collector
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.4](https://github.com/wickenico/WailBrew/releases/tag/v0.9.4), 11 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
