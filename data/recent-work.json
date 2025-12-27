@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-27T06:06:02.117Z",
+  "lastUpdated": "2025-12-27T12:06:46.677Z",
   "items": [
+    {
+      "id": "moseoh/mst",
+      "repo": {
+        "owner": "moseoh",
+        "name": "mst",
+        "nameWithOwner": "moseoh/mst",
+        "url": "https://github.com/moseoh/mst",
+        "description": "Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2025-12-27T10:05:30Z",
+      "collectedAt": "2025-12-27T12:06:46.677Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2025-12-27T00:17:34Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "pushedAt": "2025-12-27T06:06:03Z",
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,23 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-24T00:04:34Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
-    },
-    {
-      "id": "moseoh/mst",
-      "repo": {
-        "owner": "moseoh",
-        "name": "mst",
-        "nameWithOwner": "moseoh/mst",
-        "url": "https://github.com/moseoh/mst",
-        "description": "Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2025-12-22T07:35:47Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-21T00:09:52Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh/code-template",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     },
     {
       "id": "moseoh-org/flash-deals",
@@ -127,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T09:00:48Z",
-      "collectedAt": "2025-12-27T06:06:02.117Z"
+      "collectedAt": "2025-12-27T12:06:46.677Z"
     }
   ]
 }
