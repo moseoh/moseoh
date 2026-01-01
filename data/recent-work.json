@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-01T06:07:27.243Z",
+  "lastUpdated": "2026-01-01T12:07:40.414Z",
   "items": [
+    {
+      "id": "moseoh/algorithm",
+      "repo": {
+        "owner": "moseoh",
+        "name": "algorithm",
+        "nameWithOwner": "moseoh/algorithm",
+        "url": "https://github.com/moseoh/algorithm",
+        "description": "코딩 문제 풀이",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-01T10:18:15Z",
+      "collectedAt": "2026-01-01T12:07:40.414Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-01T00:20:19Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "pushedAt": "2026-01-01T06:07:28Z",
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/mst",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-27T10:05:30Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-24T00:04:34Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-21T00:09:52Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -95,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     },
     {
       "id": "moseoh/code-template",
@@ -111,23 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
-    },
-    {
-      "id": "moseoh-org/flash-deals",
-      "repo": {
-        "owner": "moseoh-org",
-        "name": "flash-deals",
-        "nameWithOwner": "moseoh-org/flash-deals",
-        "url": "https://github.com/moseoh-org/flash-deals",
-        "description": null,
-        "stars": 0,
-        "language": "Python",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2025-12-13T09:00:48Z",
-      "collectedAt": "2026-01-01T06:07:27.243Z"
+      "collectedAt": "2026-01-01T12:07:40.414Z"
     }
   ]
 }
