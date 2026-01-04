@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-03T18:05:58.969Z",
+  "lastUpdated": "2026-01-04T00:20:02.945Z",
   "items": [
+    {
+      "id": "moseoh/programmers_helper",
+      "repo": {
+        "owner": "moseoh",
+        "name": "programmers_helper",
+        "nameWithOwner": "moseoh/programmers_helper",
+        "url": "https://github.com/moseoh/programmers_helper",
+        "description": "Programmers 문제풀이 도움 Plugin",
+        "stars": 6,
+        "language": "Kotlin",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-04T00:06:48Z",
+      "collectedAt": "2026-01-04T00:20:02.945Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-03T12:07:19Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "pushedAt": "2026-01-03T18:06:00Z",
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/mst",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-27T10:05:30Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -63,23 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-24T00:04:34Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
-    },
-    {
-      "id": "moseoh/programmers_helper",
-      "repo": {
-        "owner": "moseoh",
-        "name": "programmers_helper",
-        "nameWithOwner": "moseoh/programmers_helper",
-        "url": "https://github.com/moseoh/programmers_helper",
-        "description": "Programmers 문제풀이 도움 Plugin",
-        "stars": 6,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2025-12-21T00:09:52Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     },
     {
       "id": "moseoh/code-template",
@@ -127,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2026-01-03T18:05:58.969Z"
+      "collectedAt": "2026-01-04T00:20:02.945Z"
     }
   ]
 }
