@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-05T06:09:22.254Z",
+  "lastUpdated": "2026-01-05T12:07:55.195Z",
   "items": [
+    {
+      "id": "moseoh/moseoh",
+      "repo": {
+        "owner": "moseoh",
+        "name": "moseoh",
+        "nameWithOwner": "moseoh/moseoh",
+        "url": "https://github.com/moseoh/moseoh",
+        "description": "My personal repository",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-05T06:09:23Z",
+      "collectedAt": "2026-01-05T12:07:55.195Z"
+    },
     {
       "id": "moseoh/moseoh-lab",
       "repo": {
@@ -15,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-05T05:31:31Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -31,23 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-05T05:26:38Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
-    },
-    {
-      "id": "moseoh/moseoh",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh",
-        "nameWithOwner": "moseoh/moseoh",
-        "url": "https://github.com/moseoh/moseoh",
-        "description": "My personal repository",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-01-05T00:19:27Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/mst",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-27T10:05:30Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     },
     {
       "id": "moseoh/code-template",
@@ -127,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2026-01-05T06:09:22.254Z"
+      "collectedAt": "2026-01-05T12:07:55.195Z"
     }
   ]
 }
