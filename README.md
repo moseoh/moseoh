@@ -12,6 +12,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (3 days ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (3 days ago)
-- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (6 days ago)
-- [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (11 days ago)
+- [moseoh/algorithm](https://github.com/moseoh/algorithm) - 코딩 문제 풀이 (7 days ago)
+- [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (12 days ago)
 #### ⭐ Total Stars: 8
