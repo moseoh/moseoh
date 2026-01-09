@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T00:18:11.664Z",
+  "lastUpdated": "2026-01-09T06:07:23.301Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-08T18:06:23Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "pushedAt": "2026-01-09T00:18:13Z",
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-05T05:31:31Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-05T05:26:38Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/mst",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-27T10:05:30Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -111,23 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
-    },
-    {
-      "id": "moseoh/code-template",
-      "repo": {
-        "owner": "moseoh",
-        "name": "code-template",
-        "nameWithOwner": "moseoh/code-template",
-        "url": "https://github.com/moseoh/code-template",
-        "description": null,
-        "stars": 0,
-        "language": "Go",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2026-01-09T00:18:11.664Z"
+      "collectedAt": "2026-01-09T06:07:23.301Z"
     }
   ]
 }
