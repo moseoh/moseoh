@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T12:08:01.016Z",
+  "lastUpdated": "2026-01-12T18:06:35.595Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-12T06:08:34Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "pushedAt": "2026-01-12T12:08:02Z",
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-11T00:01:47Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/mst",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-10T10:54:20Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-05T05:31:31Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/go-feature-flag",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-15T17:33:59Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/WailBrew",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-14T14:26:45Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     },
     {
       "id": "moseoh/code-template",
@@ -127,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2025-12-13T21:08:28Z",
-      "collectedAt": "2026-01-12T12:08:01.015Z"
+      "collectedAt": "2026-01-12T18:06:35.594Z"
     }
   ]
 }
