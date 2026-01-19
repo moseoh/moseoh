@@ -30,7 +30,9 @@ export class ReleasesCollector {
     // Load existing data
     const existingData = await this.store.load()
     const existingItems = existingData.items
-    const existingRepoIds = new Set(existingItems.map((item) => item.id))
+    const existingReleases = new Map(
+      existingItems.map((item) => [item.id, item.release.publishedAt])
+    )
 
     // Find oldest saved release date
     const oldestSavedDate =
@@ -50,7 +52,7 @@ export class ReleasesCollector {
       : sinceDate
 
     // Fetch releases with pagination until target date
-    const releases = await this.client.getReleasesUntil(username, targetDate, existingRepoIds)
+    const releases = await this.client.getReleasesUntil(username, targetDate, existingReleases)
 
     // Convert to ReleaseItem format
     const newItems: ReleaseItem[] = releases.map((item) => ({
