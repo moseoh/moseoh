@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T12:08:24.250Z",
+  "lastUpdated": "2026-01-19T18:06:18.008Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -94,6 +94,18 @@
       "history": [
         {
           "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/flash-deals",
+      "url": "https://github.com/moseoh/flash-deals",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-01-19",
           "stars": 0
         }
       ]
