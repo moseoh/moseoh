@@ -202,7 +202,7 @@ export class GitHubClient {
   async getReleasesUntil(
     username: string,
     untilDate: Date,
-    existingRepoIds: Set<string>
+    existingReleases: Map<string, string> // repoId → publishedAt (ISO string)
   ): Promise<Array<{ repo: Repository; release: Release }>> {
     const results: Array<{ repo: Repository; release: Release }> = []
     let cursor: string | null = null
@@ -234,9 +234,10 @@ export class GitHubClient {
           continue
         }
 
-        // Skip if repo already exists
+        // Skip if repo already has this or newer release
         const repoId = repo.nameWithOwner
-        if (existingRepoIds.has(repoId)) continue
+        const existingPublishedAt = existingReleases.get(repoId)
+        if (existingPublishedAt && releaseDate <= new Date(existingPublishedAt)) continue
 
         results.push({
           repo: mapRepository(repo),
