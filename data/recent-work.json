@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T23:58:15.028Z",
+  "lastUpdated": "2026-01-20T00:17:31.918Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-19T23:57:05Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "pushedAt": "2026-01-19T23:58:16Z",
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T23:44:15Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     },
     {
       "id": "moseoh/mst",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T17:39:35Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     },
     {
       "id": "n-hw/vf-front",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T13:20:01Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-14T06:57:21Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-19T23:58:15.028Z"
+      "collectedAt": "2026-01-20T00:17:31.918Z"
     }
   ]
 }
