@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T00:18:47.405Z",
+  "lastUpdated": "2026-01-21T06:08:17.766Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/n8n",
+      "url": "https://github.com/moseoh/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-01-21",
+          "stars": 0
         }
       ]
     },

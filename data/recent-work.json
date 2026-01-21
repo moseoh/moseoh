@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-21T00:18:46.902Z",
+  "lastUpdated": "2026-01-21T06:08:17.175Z",
   "items": [
+    {
+      "id": "moseoh/n8n",
+      "repo": {
+        "owner": "moseoh",
+        "name": "n8n",
+        "nameWithOwner": "moseoh/n8n",
+        "url": "https://github.com/moseoh/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-21T02:21:12Z",
+      "collectedAt": "2026-01-21T06:08:17.175Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-20T18:08:14Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "pushedAt": "2026-01-21T00:18:48Z",
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T23:44:15Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     },
     {
       "id": "moseoh/mst",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T17:39:35Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     },
     {
       "id": "n-hw/vf-front",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T13:20:01Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-14T06:57:21Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -95,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-21T00:18:46.902Z"
+      "collectedAt": "2026-01-21T06:08:17.175Z"
     }
   ]
 }
