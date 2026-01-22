@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-21T18:14:48.035Z",
+  "lastUpdated": "2026-01-22T00:19:17.172Z",
   "items": [
+    {
+      "id": "moseoh/code-template",
+      "repo": {
+        "owner": "moseoh",
+        "name": "code-template",
+        "nameWithOwner": "moseoh/code-template",
+        "url": "https://github.com/moseoh/code-template",
+        "description": null,
+        "stars": 0,
+        "language": "Go",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-21T23:48:19Z",
+      "collectedAt": "2026-01-22T00:19:17.172Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-21T12:08:22Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "pushedAt": "2026-01-21T18:14:49Z",
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "moseoh/n8n",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-21T02:21:12Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T23:44:15Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "moseoh/mst",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T17:39:35Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "n-hw/vf-front",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T13:20:01Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -95,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-14T06:57:21Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     },
     {
       "id": "moseoh/algorithm",
@@ -111,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-21T18:14:48.035Z"
+      "collectedAt": "2026-01-22T00:19:17.172Z"
     }
   ]
 }
