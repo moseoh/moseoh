@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.144.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.144.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.144.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.144.0), 3 days ago) - Contrib repository for the OpenTelemetry Collector
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.8](https://github.com/wickenico/WailBrew/releases/tag/v0.9.8), 9 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
@@ -13,5 +13,5 @@
 - [moseoh/code-template](https://github.com/moseoh/code-template) (1 day ago)
 - [moseoh/n8n](https://github.com/moseoh/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (2 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (3 days ago)
-- [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (3 days ago)
+- [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (4 days ago)
 #### ⭐ Total Stars: 8
