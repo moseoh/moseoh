@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-01-24T18:06:14.066Z",
+  "lastUpdated": "2026-01-25T00:20:10.313Z",
   "items": [
+    {
+      "id": "moseoh/programmers_helper",
+      "repo": {
+        "owner": "moseoh",
+        "name": "programmers_helper",
+        "nameWithOwner": "moseoh/programmers_helper",
+        "url": "https://github.com/moseoh/programmers_helper",
+        "description": "Programmers 문제풀이 도움 Plugin",
+        "stars": 6,
+        "language": "Kotlin",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-25T00:03:42Z",
+      "collectedAt": "2026-01-25T00:20:10.313Z"
+    },
+    {
+      "id": "moseoh/polarnote",
+      "repo": {
+        "owner": "moseoh",
+        "name": "polarnote",
+        "nameWithOwner": "moseoh/polarnote",
+        "url": "https://github.com/moseoh/polarnote",
+        "description": "A modern, performant blog powered by Astro.",
+        "stars": 0,
+        "language": "Astro",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-01-24T23:20:38Z",
+      "collectedAt": "2026-01-25T00:20:10.313Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +46,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-01-24T12:07:13Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "pushedAt": "2026-01-24T18:06:17Z",
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     },
     {
       "id": "moseoh/mst",
@@ -31,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-24T10:32:55Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     },
     {
       "id": "moseoh/code-template",
@@ -47,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-21T23:48:19Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     },
     {
       "id": "moseoh/n8n",
@@ -63,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-21T02:21:12Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -79,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T23:44:15Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     },
     {
       "id": "n-hw/vf-front",
@@ -95,39 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-01-19T13:20:01Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
-    },
-    {
-      "id": "moseoh/programmers_helper",
-      "repo": {
-        "owner": "moseoh",
-        "name": "programmers_helper",
-        "nameWithOwner": "moseoh/programmers_helper",
-        "url": "https://github.com/moseoh/programmers_helper",
-        "description": "Programmers 문제풀이 도움 Plugin",
-        "stars": 6,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-01-14T06:57:21Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
-    },
-    {
-      "id": "moseoh/algorithm",
-      "repo": {
-        "owner": "moseoh",
-        "name": "algorithm",
-        "nameWithOwner": "moseoh/algorithm",
-        "url": "https://github.com/moseoh/algorithm",
-        "description": "코딩 문제 풀이",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-01-01T10:18:15Z",
-      "collectedAt": "2026-01-24T18:06:14.066Z"
+      "collectedAt": "2026-01-25T00:20:10.313Z"
     }
   ]
 }
