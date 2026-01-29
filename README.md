@@ -12,6 +12,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [n-hw/vf-front](https://github.com/n-hw/vf-front) (3 days ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (4 days ago)
-- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (4 days ago)
+- [moseoh/polarnote](https://github.com/moseoh/polarnote) - A modern, performant blog powered by Astro. (5 days ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (5 days ago)
 #### ⭐ Total Stars: 8
