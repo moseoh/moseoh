@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T12:11:48.923Z",
+  "lastUpdated": "2026-02-04T16:45:27.538Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -9,19 +9,19 @@
         "nameWithOwner": "open-telemetry/opentelemetry-collector-contrib",
         "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
         "description": "Contrib repository for the OpenTelemetry Collector",
-        "stars": 4298,
+        "stars": 4333,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.144.0",
-        "name": "v0.144.0",
-        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.144.0",
-        "publishedAt": "2026-01-20T12:52:37Z",
+        "tagName": "v0.145.0",
+        "name": "v0.145.0",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.145.0",
+        "publishedAt": "2026-02-03T17:19:26Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-01-20T18:08:11.351Z"
+      "collectedAt": "2026-02-04T16:45:26.593Z"
     },
     {
       "id": "wickenico/WailBrew",
@@ -31,19 +31,19 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 1723,
+        "stars": 1846,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.9.9",
-        "name": "v0.9.9",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.9.9",
-        "publishedAt": "2026-02-01T11:06:32Z",
+        "tagName": "v0.9.10",
+        "name": "v0.9.10",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.9.10",
+        "publishedAt": "2026-02-02T23:27:57Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-02-01T12:08:14.972Z"
+      "collectedAt": "2026-02-04T16:45:26.593Z"
     }
   ]
 }
