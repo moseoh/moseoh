@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.11](https://github.com/wickenico/WailBrew/releases/tag/v0.9.11), 4 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.145.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.145.0), 11 days ago) - Contrib repository for the OpenTelemetry Collector
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.12](https://github.com/wickenico/WailBrew/releases/tag/v0.9.12), about 6 hours ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.145.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.145.0), 12 days ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
@@ -12,6 +12,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (1 day ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (1 day ago)
-- [moseoh/n8n](https://github.com/moseoh/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (6 days ago)
+- [moseoh/n8n](https://github.com/moseoh/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (7 days ago)
 - [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (8 days ago)
 #### ⭐ Total Stars: 8
