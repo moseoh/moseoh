@@ -10,7 +10,7 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (2 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (3 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (5 days ago)
 - [moseoh/n8n](https://github.com/moseoh/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (10 days ago)
 - [moseoh/mst](https://github.com/moseoh/mst) - Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI (11 days ago)
