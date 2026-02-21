@@ -11,7 +11,7 @@
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (2 days ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (5 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (6 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (8 days ago)
 - [moseoh/n8n](https://github.com/moseoh/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (13 days ago)
 #### ⭐ Total Stars: 8
