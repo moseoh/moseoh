@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T12:12:16.832Z",
+  "lastUpdated": "2026-03-09T18:17:22.383Z",
   "items": [
     {
       "id": "fabbitinc/fabbit-docs",
@@ -10,12 +10,12 @@
         "url": "https://github.com/fabbitinc/fabbit-docs",
         "description": null,
         "stars": 0,
-        "language": null,
+        "language": "TypeScript",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-03-09T08:25:14Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "pushedAt": "2026-03-09T14:23:05Z",
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-03-09T06:23:00Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "pushedAt": "2026-03-09T12:12:18Z",
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-01T13:26:23Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/opentelemetry-collector-contrib",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-19T01:22:53Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-15T18:33:32Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/n8n",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-08T12:44:39Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/mst",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-07T10:32:39Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -127,7 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-01T00:12:59Z",
-      "collectedAt": "2026-03-09T12:12:16.832Z"
+      "collectedAt": "2026-03-09T18:17:22.382Z"
     }
   ]
 }
