@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.16](https://github.com/wickenico/WailBrew/releases/tag/v0.9.16), 2 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.147.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.147.0), 10 days ago) - Contrib repository for the OpenTelemetry Collector
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.16](https://github.com/wickenico/WailBrew/releases/tag/v0.9.16), 3 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.147.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.147.0), 11 days ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
@@ -13,5 +13,5 @@
 - [fabbitinc/fabbit-docs](https://github.com/fabbitinc/fabbit-docs) (4 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (12 days ago)
 - [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (22 days ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (25 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (26 days ago)
 #### ⭐ Total Stars: 8
