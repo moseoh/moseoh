@@ -12,6 +12,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [fabbitinc/fabbit-docs](https://github.com/fabbitinc/fabbit-docs) (6 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (14 days ago)
-- [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (24 days ago)
+- [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (25 days ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (28 days ago)
 #### ⭐ Total Stars: 8
