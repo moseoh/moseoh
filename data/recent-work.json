@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-22T00:23:39.624Z",
+  "lastUpdated": "2026-03-22T06:18:11.784Z",
   "items": [
+    {
+      "id": "moseoh/polarnote",
+      "repo": {
+        "owner": "moseoh",
+        "name": "polarnote",
+        "nameWithOwner": "moseoh/polarnote",
+        "url": "https://github.com/moseoh/polarnote",
+        "description": "A modern, performant blog powered by Astro.",
+        "stars": 0,
+        "language": "Astro",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-03-22T05:52:17Z",
+      "collectedAt": "2026-03-22T06:18:11.783Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-03-21T18:07:57Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "pushedAt": "2026-03-22T00:23:40Z",
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-20T06:58:30Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "fabbitinc/fabbit-docs",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-19T04:53:46Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "moseoh/opentelemetry-collector-contrib",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-17T18:44:42Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-15T18:33:32Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "moseoh/n8n",
@@ -95,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-08T12:44:39Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     },
     {
       "id": "moseoh/mst",
@@ -111,23 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-07T10:32:39Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
-    },
-    {
-      "id": "moseoh/programmers_helper",
-      "repo": {
-        "owner": "moseoh",
-        "name": "programmers_helper",
-        "nameWithOwner": "moseoh/programmers_helper",
-        "url": "https://github.com/moseoh/programmers_helper",
-        "description": "Programmers 문제풀이 도움 Plugin",
-        "stars": 6,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-02-01T00:12:59Z",
-      "collectedAt": "2026-03-22T00:23:39.623Z"
+      "collectedAt": "2026-03-22T06:18:11.783Z"
     }
   ]
 }
