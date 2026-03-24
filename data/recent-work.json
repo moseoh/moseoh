@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-23T18:17:35.397Z",
+  "lastUpdated": "2026-03-24T00:20:32.063Z",
   "items": [
     {
-      "id": "fabbitinc/fabbit-docs",
+      "id": "moseoh/programmers_helper",
       "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-docs",
-        "nameWithOwner": "fabbitinc/fabbit-docs",
-        "url": "https://github.com/fabbitinc/fabbit-docs",
-        "description": null,
-        "stars": 0,
-        "language": "TypeScript",
+        "owner": "moseoh",
+        "name": "programmers_helper",
+        "nameWithOwner": "moseoh/programmers_helper",
+        "url": "https://github.com/moseoh/programmers_helper",
+        "description": "Programmers 문제풀이 도움 Plugin",
+        "stars": 6,
+        "language": "Kotlin",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-03-23T07:18:28Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "pushedAt": "2026-03-23T22:52:13Z",
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +30,24 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-03-23T06:27:06Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "pushedAt": "2026-03-23T18:17:41Z",
+      "collectedAt": "2026-03-24T00:20:32.063Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-docs",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-docs",
+        "nameWithOwner": "fabbitinc/fabbit-docs",
+        "url": "https://github.com/fabbitinc/fabbit-docs",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-03-23T07:18:28Z",
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-22T18:32:36Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/polarnote",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-22T05:52:17Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-20T06:58:30Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/opentelemetry-collector-contrib",
@@ -95,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-03-17T18:44:42Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     },
     {
       "id": "moseoh/n8n",
@@ -111,23 +127,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-02-08T12:44:39Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
-    },
-    {
-      "id": "moseoh/mst",
-      "repo": {
-        "owner": "moseoh",
-        "name": "mst",
-        "nameWithOwner": "moseoh/mst",
-        "url": "https://github.com/moseoh/mst",
-        "description": "Moseoh Setup Tool (MST) - 개인 개발 환경 자동화 및 설정 동기화 CLI",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-02-07T10:32:39Z",
-      "collectedAt": "2026-03-23T18:17:35.396Z"
+      "collectedAt": "2026-03-24T00:20:32.063Z"
     }
   ]
 }
