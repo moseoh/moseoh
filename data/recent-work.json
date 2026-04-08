@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-04-08T12:20:19.927Z",
+  "lastUpdated": "2026-04-08T18:27:07.105Z",
   "items": [
+    {
+      "id": "fabbitinc/fabbit-web",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-04-08T15:48:13Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-04-08T15:32:59Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-infra",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
+        "stars": 0,
+        "language": "HCL",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-04-08T15:31:34Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-file-agent",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-file-agent",
+        "nameWithOwner": "fabbitinc/fabbit-file-agent",
+        "url": "https://github.com/fabbitinc/fabbit-file-agent",
+        "description": null,
+        "stars": 0,
+        "language": "Rust",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-04-08T15:31:26Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-portfolio",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-portfolio",
+        "nameWithOwner": "fabbitinc/fabbit-portfolio",
+        "url": "https://github.com/fabbitinc/fabbit-portfolio",
+        "description": null,
+        "stars": 0,
+        "language": null,
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-04-08T15:28:36Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +94,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-04-08T06:33:55Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
+      "pushedAt": "2026-04-08T12:20:21Z",
+      "collectedAt": "2026-04-08T18:27:07.105Z"
     },
     {
       "id": "moseoh/n8n",
@@ -31,71 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-02T07:22:12Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
-    },
-    {
-      "id": "moseoh/programmers_helper",
-      "repo": {
-        "owner": "moseoh",
-        "name": "programmers_helper",
-        "nameWithOwner": "moseoh/programmers_helper",
-        "url": "https://github.com/moseoh/programmers_helper",
-        "description": "Programmers 문제풀이 도움 Plugin",
-        "stars": 6,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-03-29T04:20:52Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
-    },
-    {
-      "id": "moseoh/moseoh-lab",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh-lab",
-        "nameWithOwner": "moseoh/moseoh-lab",
-        "url": "https://github.com/moseoh/moseoh-lab",
-        "description": "Experimental automation lab - personal tools and integrations",
-        "stars": 0,
-        "language": "Python",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-03-26T02:41:24Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
-    },
-    {
-      "id": "moseoh/algorithm",
-      "repo": {
-        "owner": "moseoh",
-        "name": "algorithm",
-        "nameWithOwner": "moseoh/algorithm",
-        "url": "https://github.com/moseoh/algorithm",
-        "description": "코딩 문제 풀이",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-03-26T02:33:02Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-docs",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-docs",
-        "nameWithOwner": "fabbitinc/fabbit-docs",
-        "url": "https://github.com/fabbitinc/fabbit-docs",
-        "description": null,
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-03-24T10:31:23Z",
-      "collectedAt": "2026-04-08T12:20:19.927Z"
+      "collectedAt": "2026-04-08T18:27:07.105Z"
     }
   ]
 }

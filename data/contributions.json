@@ -1,6 +1,266 @@
 {
-  "lastUpdated": "2026-04-08T12:20:18.020Z",
+  "lastUpdated": "2026-04-08T18:27:05.359Z",
   "items": [
+    {
+      "id": "fabbitinc/fabbit-web#40",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 40,
+        "title": "feat(parts): 채번 카테고리 관리 및 BOM 항목 CRUD 기능 추가",
+        "url": "https://github.com/fabbitinc/fabbit-web/pull/40",
+        "state": "MERGED",
+        "mergedAt": "2026-03-30T10:30:38Z",
+        "createdAt": "2026-03-30T09:07:07Z",
+        "additions": 15461,
+        "deletions": 4871,
+        "changedFiles": 196
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server#10",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 10,
+        "title": "fix(part): createPart 요청 계약 강화",
+        "url": "https://github.com/fabbitinc/fabbit-server/pull/10",
+        "state": "MERGED",
+        "mergedAt": "2026-03-29T14:54:10Z",
+        "createdAt": "2026-03-29T14:35:52Z",
+        "additions": 118,
+        "deletions": 0,
+        "changedFiles": 3
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server#9",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 9,
+        "title": "feat: add change management demo kit APIs",
+        "url": "https://github.com/fabbitinc/fabbit-server/pull/9",
+        "state": "MERGED",
+        "mergedAt": "2026-03-29T14:33:22Z",
+        "createdAt": "2026-03-29T14:12:39Z",
+        "additions": 2296,
+        "deletions": 5,
+        "changedFiles": 43
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server#8",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 8,
+        "title": "feat(part): 채번 카테고리 CRUD와 품번 미리보기 API 추가",
+        "url": "https://github.com/fabbitinc/fabbit-server/pull/8",
+        "state": "MERGED",
+        "mergedAt": "2026-03-29T14:01:35Z",
+        "createdAt": "2026-03-29T13:45:51Z",
+        "additions": 793,
+        "deletions": 7,
+        "changedFiles": 23
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server#7",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 7,
+        "title": "feat(bom): BOM Interview Demo Kit — Excel Import, Compare, Where-used 요약",
+        "url": "https://github.com/fabbitinc/fabbit-server/pull/7",
+        "state": "MERGED",
+        "mergedAt": "2026-03-29T13:08:48Z",
+        "createdAt": "2026-03-29T12:47:18Z",
+        "additions": 1660,
+        "deletions": 0,
+        "changedFiles": 27
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-server#6",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-server",
+        "nameWithOwner": "fabbitinc/fabbit-server",
+        "url": "https://github.com/fabbitinc/fabbit-server",
+        "description": null,
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 6,
+        "title": "feat(part): 채번 시스템 + PartItemType enum + phantom 교체",
+        "url": "https://github.com/fabbitinc/fabbit-server/pull/6",
+        "state": "MERGED",
+        "mergedAt": "2026-03-29T13:11:30Z",
+        "createdAt": "2026-03-29T12:40:12Z",
+        "additions": 599,
+        "deletions": 375,
+        "changedFiles": 43
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-web#14",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 14,
+        "title": "feat: React 프론트엔드 프로젝트 구조 및 주요 기능 구현",
+        "url": "https://github.com/fabbitinc/fabbit-web/pull/14",
+        "state": "MERGED",
+        "mergedAt": "2026-02-10T06:22:02Z",
+        "createdAt": "2026-02-10T06:14:16Z",
+        "additions": 5772,
+        "deletions": 526,
+        "changedFiles": 64
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-infra#9",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
+        "stars": 0,
+        "language": "HCL",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 9,
+        "title": "chore(infra): provider 버전 업그레이드",
+        "url": "https://github.com/fabbitinc/fabbit-infra/pull/9",
+        "state": "MERGED",
+        "mergedAt": "2026-01-30T08:10:55Z",
+        "createdAt": "2026-01-30T08:10:42Z",
+        "additions": 6,
+        "deletions": 6,
+        "changedFiles": 2
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-infra#1",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
+        "stars": 0,
+        "language": "HCL",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 1,
+        "title": "docs(infra): 운영 가이드 및 자동화 추가",
+        "url": "https://github.com/fabbitinc/fabbit-infra/pull/1",
+        "state": "MERGED",
+        "mergedAt": "2026-01-30T07:56:04Z",
+        "createdAt": "2026-01-30T07:55:28Z",
+        "additions": 205,
+        "deletions": 46,
+        "changedFiles": 3
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-web#1",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 1,
+        "title": "feat(web): React 프론트엔드 프로젝트 구조 및 주요 기능 구현",
+        "url": "https://github.com/fabbitinc/fabbit-web/pull/1",
+        "state": "MERGED",
+        "mergedAt": "2026-01-30T07:54:36Z",
+        "createdAt": "2026-01-30T07:53:30Z",
+        "additions": 12503,
+        "deletions": 290,
+        "changedFiles": 76
+      },
+      "collectedAt": "2026-04-08T18:26:52.541Z"
+    },
     {
       "id": "moseoh-org/flash-deals#25",
       "repo": {
