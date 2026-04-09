@@ -17,8 +17,8 @@
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) - [#1](https://github.com/fabbitinc/fabbit-web/pull/1) feat(web): React 프론트엔드 프로젝트 구조 및 주요 기능 구현
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
-- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 9 hours ago)
-- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 9 hours ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 9 hours ago)
-- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 9 hours ago)
+- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 15 hours ago)
+- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 15 hours ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 15 hours ago)
+- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 15 hours ago)
 #### ⭐ Total Stars: 8
