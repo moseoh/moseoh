@@ -16,9 +16,9 @@
 - [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) - [#1](https://github.com/fabbitinc/fabbit-infra/pull/1) docs(infra): 운영 가이드 및 자동화 추가
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) - [#1](https://github.com/fabbitinc/fabbit-web/pull/1) feat(web): React 프론트엔드 프로젝트 구조 및 주요 기능 구현
 #### 👷 Check out what I'm currently working on
-- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 3 hours ago)
-- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 3 hours ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 3 hours ago)
-- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 3 hours ago)
-- [fabbitinc/fabbit-portfolio](https://github.com/fabbitinc/fabbit-portfolio) (about 3 hours ago)
+- [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
+- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 9 hours ago)
+- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 9 hours ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 9 hours ago)
+- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 9 hours ago)
 #### ⭐ Total Stars: 8
