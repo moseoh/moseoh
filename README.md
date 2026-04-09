@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.149.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.149.0), 8 days ago) - Contrib repository for the OpenTelemetry Collector
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.18](https://github.com/wickenico/WailBrew/releases/tag/v0.9.18), 14 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.149.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.149.0), 9 days ago) - Contrib repository for the OpenTelemetry Collector
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.18](https://github.com/wickenico/WailBrew/releases/tag/v0.9.18), 15 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) - [#40](https://github.com/fabbitinc/fabbit-web/pull/40) feat(parts): 채번 카테고리 관리 및 BOM 항목 CRUD 기능 추가
@@ -17,8 +17,8 @@
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) - [#1](https://github.com/fabbitinc/fabbit-web/pull/1) feat(web): React 프론트엔드 프로젝트 구조 및 주요 기능 구현
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
-- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 15 hours ago)
-- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 15 hours ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 15 hours ago)
-- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 15 hours ago)
+- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (about 21 hours ago)
+- [fabbitinc/fabbit-server](https://github.com/fabbitinc/fabbit-server) (about 21 hours ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 21 hours ago)
+- [fabbitinc/fabbit-file-agent](https://github.com/fabbitinc/fabbit-file-agent) (about 21 hours ago)
 #### ⭐ Total Stars: 8
