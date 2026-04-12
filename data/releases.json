@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T18:10:51.173Z",
+  "lastUpdated": "2026-04-12T00:28:19.552Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -31,19 +31,19 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 2286,
+        "stars": 2326,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.9.18",
-        "name": "v0.9.18",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.9.18",
-        "publishedAt": "2026-03-25T21:52:12Z",
+        "tagName": "v0.9.19",
+        "name": "v0.9.19",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.9.19",
+        "publishedAt": "2026-04-11T22:38:27Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-03-26T00:25:31.959Z"
+      "collectedAt": "2026-04-12T00:28:18.660Z"
     }
   ]
 }
