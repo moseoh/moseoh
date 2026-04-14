@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.150.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.150.0), about 11 hours ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.150.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.150.0), about 17 hours ago) - Contrib repository for the OpenTelemetry Collector
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.19](https://github.com/wickenico/WailBrew/releases/tag/v0.9.19), 2 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
@@ -13,5 +13,5 @@
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (1 day ago)
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (1 day ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (1 day ago)
-- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (1 day ago)
+- [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (2 days ago)
 #### ⭐ Total Stars: 8
