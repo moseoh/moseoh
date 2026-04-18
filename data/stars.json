@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T00:27:34.917Z",
+  "lastUpdated": "2026-04-18T06:27:11.170Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/recipeat",
+      "url": "https://github.com/moseoh/recipeat",
+      "description": null,
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-04-18",
+          "stars": 0
         }
       ]
     },
