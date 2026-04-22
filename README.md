@@ -12,6 +12,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (3 days ago)
 - [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (5 days ago)
-- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (9 days ago)
+- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (10 days ago)
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (10 days ago)
 #### ⭐ Total Stars: 8
