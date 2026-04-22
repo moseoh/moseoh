@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.150.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.150.0), 8 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.150.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.150.0), 9 days ago) - Contrib repository for the OpenTelemetry Collector
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.19](https://github.com/wickenico/WailBrew/releases/tag/v0.9.19), 10 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
@@ -11,7 +11,7 @@
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (3 days ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (4 days ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (5 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (9 days ago)
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (9 days ago)
 #### ⭐ Total Stars: 8
