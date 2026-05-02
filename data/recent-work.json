@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-05-02T12:18:47.518Z",
+  "lastUpdated": "2026-05-02T18:19:06.391Z",
   "items": [
     {
-      "id": "moseoh/n8n",
+      "id": "fabbitinc/fabbit-web",
       "repo": {
-        "owner": "moseoh",
-        "name": "n8n",
-        "nameWithOwner": "moseoh/n8n",
-        "url": "https://github.com/moseoh/n8n",
-        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
         "stars": 0,
         "language": "TypeScript",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-02T11:37:59Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "pushedAt": "2026-05-02T13:26:10Z",
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +30,24 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-02T06:40:08Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "pushedAt": "2026-05-02T12:18:49Z",
+      "collectedAt": "2026-05-02T18:19:06.391Z"
+    },
+    {
+      "id": "moseoh/n8n",
+      "repo": {
+        "owner": "moseoh",
+        "name": "n8n",
+        "nameWithOwner": "moseoh/n8n",
+        "url": "https://github.com/moseoh/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-05-02T11:37:59Z",
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-01T16:54:36Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-26T14:32:28Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -79,23 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-13T00:28:39Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-web",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-web",
-        "nameWithOwner": "fabbitinc/fabbit-web",
-        "url": "https://github.com/fabbitinc/fabbit-web",
-        "description": null,
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-04-13T00:21:50Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-12T18:32:44Z",
-      "collectedAt": "2026-05-02T12:18:47.518Z"
+      "collectedAt": "2026-05-02T18:19:06.391Z"
     }
   ]
 }
