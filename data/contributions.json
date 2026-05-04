@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-05-04T12:35:24.592Z",
+  "lastUpdated": "2026-05-04T18:33:46.584Z",
   "items": [
+    {
+      "id": "n8n-io/n8n#24614",
+      "repo": {
+        "owner": "n8n-io",
+        "name": "n8n",
+        "nameWithOwner": "n8n-io/n8n",
+        "url": "https://github.com/n8n-io/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": 186672,
+        "language": "TypeScript",
+        "topics": [
+          "automation",
+          "ipaas",
+          "n8n",
+          "workflow",
+          "typescript",
+          "self-hosted",
+          "integrations",
+          "workflow-automation",
+          "cli",
+          "development"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 24614,
+        "title": "fix(DeepL Node): Update credentials to use header-based authentication",
+        "url": "https://github.com/n8n-io/n8n/pull/24614",
+        "state": "MERGED",
+        "mergedAt": "2026-05-04T17:25:29Z",
+        "createdAt": "2026-01-21T02:05:41Z",
+        "additions": 36,
+        "deletions": 2,
+        "changedFiles": 2
+      },
+      "collectedAt": "2026-05-04T18:33:35.128Z"
+    },
     {
       "id": "fabbitinc/fabbit-web#40",
       "repo": {
