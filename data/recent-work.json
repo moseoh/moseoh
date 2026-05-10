@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-09T18:20:19.354Z",
+  "lastUpdated": "2026-05-10T00:37:22.686Z",
   "items": [
+    {
+      "id": "moseoh/programmers_helper",
+      "repo": {
+        "owner": "moseoh",
+        "name": "programmers_helper",
+        "nameWithOwner": "moseoh/programmers_helper",
+        "url": "https://github.com/moseoh/programmers_helper",
+        "description": "Programmers 문제풀이 도움 Plugin",
+        "stars": 6,
+        "language": "Kotlin",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-05-10T00:04:41Z",
+      "collectedAt": "2026-05-10T00:37:22.686Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-09T12:20:31Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "pushedAt": "2026-05-09T18:20:20Z",
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-08T14:15:41Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     },
     {
       "id": "moseoh/n8n",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-04T15:23:26Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     },
     {
       "id": "fabbitinc/fabbit-web",
@@ -63,23 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-04T00:21:33Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
-    },
-    {
-      "id": "moseoh/programmers_helper",
-      "repo": {
-        "owner": "moseoh",
-        "name": "programmers_helper",
-        "nameWithOwner": "moseoh/programmers_helper",
-        "url": "https://github.com/moseoh/programmers_helper",
-        "description": "Programmers 문제풀이 도움 Plugin",
-        "stars": 6,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-03T04:59:41Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-13T00:28:39Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-12T18:32:44Z",
-      "collectedAt": "2026-05-09T18:20:19.353Z"
+      "collectedAt": "2026-05-10T00:37:22.686Z"
     }
   ]
 }
