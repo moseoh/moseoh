@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-05-22T12:49:44.295Z",
+  "lastUpdated": "2026-05-22T18:37:37.222Z",
   "items": [
     {
-      "id": "moseoh/n8n",
+      "id": "fabbitinc/fabbit-infra",
       "repo": {
-        "owner": "moseoh",
-        "name": "n8n",
-        "nameWithOwner": "moseoh/n8n",
-        "url": "https://github.com/moseoh/n8n",
-        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
         "stars": 0,
-        "language": "TypeScript",
+        "language": "HCL",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-22T08:57:37Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "pushedAt": "2026-05-22T14:16:15Z",
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +30,24 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-22T07:14:32Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "pushedAt": "2026-05-22T12:49:46Z",
+      "collectedAt": "2026-05-22T18:37:37.221Z"
+    },
+    {
+      "id": "moseoh/n8n",
+      "repo": {
+        "owner": "moseoh",
+        "name": "n8n",
+        "nameWithOwner": "moseoh/n8n",
+        "url": "https://github.com/moseoh/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-05-22T08:57:37Z",
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-18T12:12:51Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -63,23 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-17T00:05:41Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-infra",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-infra",
-        "nameWithOwner": "fabbitinc/fabbit-infra",
-        "url": "https://github.com/fabbitinc/fabbit-infra",
-        "description": null,
-        "stars": 0,
-        "language": "HCL",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-15T14:16:43Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     },
     {
       "id": "fabbitinc/fabbit-web",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-04T00:21:33Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-04-13T00:28:39Z",
-      "collectedAt": "2026-05-22T12:49:44.294Z"
+      "collectedAt": "2026-05-22T18:37:37.221Z"
     }
   ]
 }
