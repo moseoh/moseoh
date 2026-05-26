@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T00:41:14.270Z",
+  "lastUpdated": "2026-05-26T07:13:24.711Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -9,19 +9,19 @@
         "nameWithOwner": "open-telemetry/opentelemetry-collector-contrib",
         "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
         "description": "Contrib repository for the OpenTelemetry Collector",
-        "stars": 4649,
+        "stars": 4679,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.152.0",
-        "name": "v0.152.0",
-        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.152.0",
-        "publishedAt": "2026-05-11T13:38:04Z",
+        "tagName": "v0.153.0",
+        "name": "v0.153.0",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.153.0",
+        "publishedAt": "2026-05-26T03:12:26Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-05-11T18:38:47.225Z"
+      "collectedAt": "2026-05-26T07:13:23.331Z"
     },
     {
       "id": "wickenico/WailBrew",
