@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.153.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.153.0), about 10 hours ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.153.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.153.0), about 16 hours ago) - Contrib repository for the OpenTelemetry Collector
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.20](https://github.com/wickenico/WailBrew/releases/tag/v0.9.20), 29 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
