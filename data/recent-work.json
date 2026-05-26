@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T18:34:47.560Z",
+  "lastUpdated": "2026-05-26T00:41:14.692Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-05-25T13:10:00Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
+      "pushedAt": "2026-05-25T18:34:49Z",
+      "collectedAt": "2026-05-26T00:41:14.692Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T18:35:30Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
+      "collectedAt": "2026-05-26T00:41:14.692Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -47,7 +47,23 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:04:59Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
+      "collectedAt": "2026-05-26T00:41:14.692Z"
+    },
+    {
+      "id": "moseoh/superpowers",
+      "repo": {
+        "owner": "moseoh",
+        "name": "superpowers",
+        "nameWithOwner": "moseoh/superpowers",
+        "url": "https://github.com/moseoh/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": 0,
+        "language": "Shell",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-05-24T00:01:48Z",
+      "collectedAt": "2026-05-26T00:41:14.692Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-22T14:16:15Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
+      "collectedAt": "2026-05-26T00:41:14.692Z"
     },
     {
       "id": "moseoh/n8n",
@@ -79,39 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-22T08:57:37Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-web",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-web",
-        "nameWithOwner": "fabbitinc/fabbit-web",
-        "url": "https://github.com/fabbitinc/fabbit-web",
-        "description": null,
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-04T00:21:33Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
-    },
-    {
-      "id": "moseoh/moseoh-lab",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh-lab",
-        "nameWithOwner": "moseoh/moseoh-lab",
-        "url": "https://github.com/moseoh/moseoh-lab",
-        "description": "Experimental automation lab - personal tools and integrations",
-        "stars": 0,
-        "language": "Python",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-04-13T00:28:39Z",
-      "collectedAt": "2026-05-25T18:34:47.560Z"
+      "collectedAt": "2026-05-26T00:41:14.692Z"
     }
   ]
 }

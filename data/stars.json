@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T18:34:48.118Z",
+  "lastUpdated": "2026-05-26T00:41:15.354Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/superpowers",
+      "url": "https://github.com/moseoh/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-05-26",
+          "stars": 0
         }
       ]
     },
