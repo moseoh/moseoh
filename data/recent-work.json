@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-04T07:39:02.956Z",
+  "lastUpdated": "2026-06-04T13:04:47.293Z",
   "items": [
+    {
+      "id": "fabbitinc/fabbit-web",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-06-04T09:17:03Z",
+      "collectedAt": "2026-06-04T13:04:47.292Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-04T00:52:52Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "pushedAt": "2026-06-04T07:39:05Z",
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-01T01:08:07Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-29T17:15:47Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T18:35:30Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -79,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:04:59Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     },
     {
       "id": "moseoh/superpowers",
@@ -95,23 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:01:48Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
-    },
-    {
-      "id": "moseoh/n8n",
-      "repo": {
-        "owner": "moseoh",
-        "name": "n8n",
-        "nameWithOwner": "moseoh/n8n",
-        "url": "https://github.com/moseoh/n8n",
-        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-22T08:57:37Z",
-      "collectedAt": "2026-06-04T07:39:02.955Z"
+      "collectedAt": "2026-06-04T13:04:47.292Z"
     }
   ]
 }
