@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-05T13:01:52.769Z",
+  "lastUpdated": "2026-06-05T18:40:47.900Z",
   "items": [
+    {
+      "id": "fabbitinc/fabbit-infra",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
+        "stars": 0,
+        "language": "HCL",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-06-05T14:05:07Z",
+      "collectedAt": "2026-06-05T18:40:47.900Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-05T07:30:38Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "pushedAt": "2026-06-05T13:01:55Z",
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     },
     {
       "id": "fabbitinc/fabbit-web",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-04T09:17:03Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -47,23 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-01T01:08:07Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-infra",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-infra",
-        "nameWithOwner": "fabbitinc/fabbit-infra",
-        "url": "https://github.com/fabbitinc/fabbit-infra",
-        "description": null,
-        "stars": 0,
-        "language": "HCL",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-29T17:15:47Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T18:35:30Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -95,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:04:59Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     },
     {
       "id": "moseoh/superpowers",
@@ -111,7 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:01:48Z",
-      "collectedAt": "2026-06-05T13:01:52.768Z"
+      "collectedAt": "2026-06-05T18:40:47.900Z"
     }
   ]
 }
