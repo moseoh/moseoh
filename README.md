@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.21](https://github.com/wickenico/WailBrew/releases/tag/v0.9.21), 40 minutes ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 10 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.21](https://github.com/wickenico/WailBrew/releases/tag/v0.9.21), about 7 hours ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 16 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.153.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.153.0), 11 days ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
@@ -12,8 +12,8 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 11 hours ago)
-- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (1 day ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (about 17 hours ago)
+- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (2 days ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (5 days ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (12 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (13 days ago)
 #### ⭐ Total Stars: 8
