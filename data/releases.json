@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T13:01:02.499Z",
+  "lastUpdated": "2026-06-09T18:44:53.795Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -9,19 +9,19 @@
         "nameWithOwner": "open-telemetry/opentelemetry-collector-contrib",
         "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
         "description": "Contrib repository for the OpenTelemetry Collector",
-        "stars": 4679,
+        "stars": 4722,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.153.0",
-        "name": "v0.153.0",
-        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.153.0",
-        "publishedAt": "2026-05-26T03:12:26Z",
+        "tagName": "v0.154.0",
+        "name": "v0.154.0",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.154.0",
+        "publishedAt": "2026-06-09T16:45:32Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-05-26T07:13:23.331Z"
+      "collectedAt": "2026-06-09T18:44:52.752Z"
     },
     {
       "id": "wickenico/WailBrew",
@@ -53,7 +53,7 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 191731,
+        "stars": 191777,
         "language": null,
         "topics": [],
         "isPrivate": false
@@ -62,10 +62,10 @@
         "tagName": "beta",
         "name": "beta",
         "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
-        "publishedAt": "2026-06-09T10:50:13Z",
+        "publishedAt": "2026-06-09T15:53:50Z",
         "isPrerelease": true
       },
-      "collectedAt": "2026-06-09T13:01:01.210Z"
+      "collectedAt": "2026-06-09T18:44:52.752Z"
     }
   ]
 }
