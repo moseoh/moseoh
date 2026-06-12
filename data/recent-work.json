@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T00:49:21.332Z",
+  "lastUpdated": "2026-06-12T07:38:52.557Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-11T19:00:13Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "pushedAt": "2026-06-12T00:49:23Z",
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     },
     {
       "id": "fabbitinc/fabbit-web",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-08T00:11:27Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-05T14:05:07Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-01T01:08:07Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T18:35:30Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -95,23 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-05-24T00:04:59Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
-    },
-    {
-      "id": "moseoh/superpowers",
-      "repo": {
-        "owner": "moseoh",
-        "name": "superpowers",
-        "nameWithOwner": "moseoh/superpowers",
-        "url": "https://github.com/moseoh/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 0,
-        "language": "Shell",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-05-24T00:01:48Z",
-      "collectedAt": "2026-06-12T00:49:21.331Z"
+      "collectedAt": "2026-06-12T07:38:52.557Z"
     }
   ]
 }
