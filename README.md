@@ -11,9 +11,9 @@
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
 #### 👷 Check out what I'm currently working on
+- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (25 minutes ago)
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [fabbitinc/fabbit-portfolio](https://github.com/fabbitinc/fabbit-portfolio) (1 day ago)
 - [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (2 days ago)
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (7 days ago)
-- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (14 days ago)
 #### ⭐ Total Stars: 8
