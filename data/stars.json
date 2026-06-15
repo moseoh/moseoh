@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T07:59:45.672Z",
+  "lastUpdated": "2026-06-15T14:07:31.290Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -75,18 +75,6 @@
       ]
     },
     {
-      "nameWithOwner": "moseoh/events",
-      "url": "https://github.com/moseoh/events",
-      "description": null,
-      "stars": 0,
-      "history": [
-        {
-          "date": "2025-12-23",
-          "stars": 0
-        }
-      ]
-    },
-    {
       "nameWithOwner": "moseoh/go-feature-flag",
       "url": "https://github.com/moseoh/go-feature-flag",
       "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
@@ -118,18 +106,6 @@
       "history": [
         {
           "date": "2026-01-19",
-          "stars": 0
-        }
-      ]
-    },
-    {
-      "nameWithOwner": "moseoh/troi-front",
-      "url": "https://github.com/moseoh/troi-front",
-      "description": null,
-      "stars": 0,
-      "history": [
-        {
-          "date": "2025-12-18",
           "stars": 0
         }
       ]
