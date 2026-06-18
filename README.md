@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 11 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 18 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.23](https://github.com/wickenico/WailBrew/releases/tag/v0.9.23), 1 day ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.154.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.154.0), 8 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.154.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.154.0), 9 days ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
@@ -11,9 +11,9 @@
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
 #### 👷 Check out what I'm currently working on
-- [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (about 1 hour ago)
-- [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
+- [moseoh/opentelemetry-collector-contrib](https://github.com/moseoh/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (15 minutes ago)
+- [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 7 hours ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (3 days ago)
 - [fabbitinc/fabbit-portfolio](https://github.com/fabbitinc/fabbit-portfolio) (5 days ago)
-- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (5 days ago)
+- [fabbitinc/fabbit-infra](https://github.com/fabbitinc/fabbit-infra) (6 days ago)
 #### ⭐ Total Stars: 8
