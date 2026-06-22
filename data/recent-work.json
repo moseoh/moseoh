@@ -1,21 +1,37 @@
 {
-  "lastUpdated": "2026-06-21T18:32:41.801Z",
+  "lastUpdated": "2026-06-22T00:48:30.231Z",
   "items": [
     {
-      "id": "moseoh/blog.moseoh.com",
+      "id": "moseoh/moseoh-lab",
       "repo": {
         "owner": "moseoh",
-        "name": "blog.moseoh.com",
-        "nameWithOwner": "moseoh/blog.moseoh.com",
-        "url": "https://github.com/moseoh/blog.moseoh.com",
-        "description": null,
+        "name": "moseoh-lab",
+        "nameWithOwner": "moseoh/moseoh-lab",
+        "url": "https://github.com/moseoh/moseoh-lab",
+        "description": "Experimental automation lab - personal tools and integrations",
         "stars": 0,
-        "language": "Astro",
+        "language": "Python",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-21T18:32:09Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
+      "pushedAt": "2026-06-22T00:24:17Z",
+      "collectedAt": "2026-06-22T00:48:30.230Z"
+    },
+    {
+      "id": "fabbitinc/fabbit-web",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-web",
+        "nameWithOwner": "fabbitinc/fabbit-web",
+        "url": "https://github.com/fabbitinc/fabbit-web",
+        "description": null,
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-06-22T00:07:14Z",
+      "collectedAt": "2026-06-22T00:48:30.230Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +46,24 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-21T12:40:51Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
+      "pushedAt": "2026-06-21T18:32:43Z",
+      "collectedAt": "2026-06-22T00:48:30.230Z"
+    },
+    {
+      "id": "moseoh/blog.moseoh.com",
+      "repo": {
+        "owner": "moseoh",
+        "name": "blog.moseoh.com",
+        "nameWithOwner": "moseoh/blog.moseoh.com",
+        "url": "https://github.com/moseoh/blog.moseoh.com",
+        "description": null,
+        "stars": 0,
+        "language": "Astro",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-06-21T18:32:09Z",
+      "collectedAt": "2026-06-22T00:48:30.230Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -47,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-21T00:02:57Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
+      "collectedAt": "2026-06-22T00:48:30.230Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -63,55 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-19T14:04:59Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
-    },
-    {
-      "id": "moseoh/opentelemetry-collector-contrib",
-      "repo": {
-        "owner": "moseoh",
-        "name": "opentelemetry-collector-contrib",
-        "nameWithOwner": "moseoh/opentelemetry-collector-contrib",
-        "url": "https://github.com/moseoh/opentelemetry-collector-contrib",
-        "description": "Contrib repository for the OpenTelemetry Collector",
-        "stars": 0,
-        "language": "Go",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-06-18T07:27:20Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
-    },
-    {
-      "id": "moseoh/moseoh-lab",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh-lab",
-        "nameWithOwner": "moseoh/moseoh-lab",
-        "url": "https://github.com/moseoh/moseoh-lab",
-        "description": "Experimental automation lab - personal tools and integrations",
-        "stars": 0,
-        "language": "Python",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-06-15T00:24:45Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-portfolio",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-portfolio",
-        "nameWithOwner": "fabbitinc/fabbit-portfolio",
-        "url": "https://github.com/fabbitinc/fabbit-portfolio",
-        "description": null,
-        "stars": 0,
-        "language": null,
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-06-13T12:15:49Z",
-      "collectedAt": "2026-06-21T18:32:41.800Z"
+      "collectedAt": "2026-06-22T00:48:30.230Z"
     }
   ]
 }
