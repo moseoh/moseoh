@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@2.28.0](https://github.com/n8n-io/n8n/releases/tag/n8n%402.28.0), 39 minutes ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@2.28.0](https://github.com/n8n-io/n8n/releases/tag/n8n%402.28.0), about 6 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.23](https://github.com/wickenico/WailBrew/releases/tag/v0.9.23), 7 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.154.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.154.0), 14 days ago) - Contrib repository for the OpenTelemetry Collector
 
@@ -12,8 +12,8 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
 #### 👷 Check out what I'm currently working on
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
-- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (1 day ago)
-- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (1 day ago)
+- [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (2 days ago)
+- [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (2 days ago)
 - [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (2 days ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (3 days ago)
 #### ⭐ Total Stars: 8
