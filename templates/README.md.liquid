@@ -24,13 +24,6 @@
 {%- endunless -%}
 {%- endfor %}
 
-{%- if recentWork.size > 0 %}
-#### 👷 Check out what I'm currently working on
-{%- for item in recentWork limit:5 %}
-- [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}){% if item.repo.description %} - {{ item.repo.description }}{% endif %} ({{ item.pushedAt | humanize }})
-{%- endfor %}
-{%- endif %}
-
 {%- if stars.totalStars %}
 #### ⭐ Total Stars: {{ stars.totalStars }}
 {%- endif %}
