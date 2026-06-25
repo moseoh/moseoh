@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), about 12 hours ago) - Contrib repository for the OpenTelemetry Collector
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), about 14 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), about 18 hours ago) - Contrib repository for the OpenTelemetry Collector
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), about 20 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.23](https://github.com/wickenico/WailBrew/releases/tag/v0.9.23), 8 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
 #### 🎉 My merged PRs
@@ -14,6 +14,6 @@
 - [moseoh/moseoh](https://github.com/moseoh/moseoh) - My personal repository (about 6 hours ago)
 - [moseoh/moseoh-lab](https://github.com/moseoh/moseoh-lab) - Experimental automation lab - personal tools and integrations (3 days ago)
 - [fabbitinc/fabbit-web](https://github.com/fabbitinc/fabbit-web) (3 days ago)
-- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (3 days ago)
+- [moseoh/blog.moseoh.com](https://github.com/moseoh/blog.moseoh.com) (4 days ago)
 - [moseoh/programmers_helper](https://github.com/moseoh/programmers_helper) - Programmers 문제풀이 도움 Plugin (4 days ago)
 #### ⭐ Total Stars: 8
