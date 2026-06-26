@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-26T12:44:27.230Z",
+  "lastUpdated": "2026-06-26T18:37:23.445Z",
   "items": [
+    {
+      "id": "fabbitinc/fabbit-infra",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "fabbit-infra",
+        "nameWithOwner": "fabbitinc/fabbit-infra",
+        "url": "https://github.com/fabbitinc/fabbit-infra",
+        "description": null,
+        "stars": 0,
+        "language": "HCL",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-06-26T14:04:57Z",
+      "collectedAt": "2026-06-26T18:37:23.445Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-06-26T07:18:58Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
+      "pushedAt": "2026-06-26T12:44:28Z",
+      "collectedAt": "2026-06-26T18:37:23.445Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-22T00:24:17Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
+      "collectedAt": "2026-06-26T18:37:23.445Z"
     },
     {
       "id": "fabbitinc/fabbit-web",
@@ -47,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-22T00:07:14Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
+      "collectedAt": "2026-06-26T18:37:23.445Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -63,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-21T18:32:09Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
+      "collectedAt": "2026-06-26T18:37:23.445Z"
     },
     {
       "id": "moseoh/programmers_helper",
@@ -79,23 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-06-21T00:02:57Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-infra",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-infra",
-        "nameWithOwner": "fabbitinc/fabbit-infra",
-        "url": "https://github.com/fabbitinc/fabbit-infra",
-        "description": null,
-        "stars": 0,
-        "language": "HCL",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-06-19T14:04:59Z",
-      "collectedAt": "2026-06-26T12:44:27.229Z"
+      "collectedAt": "2026-06-26T18:37:23.445Z"
     }
   ]
 }
