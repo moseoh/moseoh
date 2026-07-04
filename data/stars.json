@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T08:30:46.801Z",
+  "lastUpdated": "2026-07-04T13:15:15.121Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/hello-realworld-bench",
+      "url": "https://github.com/moseoh/hello-realworld-bench",
+      "description": "Backend runtime benchmarks beyond Hello World.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-07-04",
+          "stars": 0
         }
       ]
     },
