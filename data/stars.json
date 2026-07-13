@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:17:18.119Z",
+  "lastUpdated": "2026-07-13T14:23:53.742Z",
   "totalStars": 8,
   "repositories": [
     {
@@ -35,6 +35,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/orca",
+      "url": "https://github.com/moseoh/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-07-13",
+          "stars": 0
         }
       ]
     },
