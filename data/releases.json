@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T02:23:26.122Z",
+  "lastUpdated": "2026-07-13T09:17:17.079Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 195912,
+        "stars": 196239,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "stable",
-        "name": "stable",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
-        "publishedAt": "2026-07-10T07:57:17Z",
+        "tagName": "n8n@1.123.65",
+        "name": "n8n@1.123.65",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.65",
+        "publishedAt": "2026-07-13T07:57:25Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-07-10T09:27:05.166Z"
+      "collectedAt": "2026-07-13T09:17:16.056Z"
     }
   ]
 }
