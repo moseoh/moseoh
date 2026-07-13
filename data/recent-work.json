@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T18:59:06.824Z",
+  "lastUpdated": "2026-07-13T02:23:26.410Z",
   "items": [
     {
       "id": "moseoh/hello-realworld-bench",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-07-12T14:12:45Z",
-      "collectedAt": "2026-07-12T18:59:06.824Z"
+      "pushedAt": "2026-07-13T02:21:01Z",
+      "collectedAt": "2026-07-13T02:23:26.410Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -30,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-07-12T13:10:13Z",
-      "collectedAt": "2026-07-12T18:59:06.824Z"
+      "pushedAt": "2026-07-12T18:59:09Z",
+      "collectedAt": "2026-07-13T02:23:26.410Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-11T16:17:02Z",
-      "collectedAt": "2026-07-12T18:59:06.824Z"
+      "collectedAt": "2026-07-13T02:23:26.410Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -63,23 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-03T14:04:25Z",
-      "collectedAt": "2026-07-12T18:59:06.824Z"
-    },
-    {
-      "id": "fabbitinc/fabbit-web",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "fabbit-web",
-        "nameWithOwner": "fabbitinc/fabbit-web",
-        "url": "https://github.com/fabbitinc/fabbit-web",
-        "description": null,
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-06-22T00:07:14Z",
-      "collectedAt": "2026-07-12T18:59:06.824Z"
+      "collectedAt": "2026-07-13T02:23:26.410Z"
     }
   ]
 }
