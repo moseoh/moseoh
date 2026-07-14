@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T13:24:02.416Z",
+  "lastUpdated": "2026-07-14T19:12:12.986Z",
   "items": [
-    {
-      "id": "moseoh/orca",
-      "repo": {
-        "owner": "moseoh",
-        "name": "orca",
-        "nameWithOwner": "moseoh/orca",
-        "url": "https://github.com/moseoh/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-07-14T12:31:39Z",
-      "collectedAt": "2026-07-14T13:24:02.416Z"
-    },
     {
       "id": "moseoh/hello-realworld-bench",
       "repo": {
@@ -30,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-07-14T11:33:27Z",
-      "collectedAt": "2026-07-14T13:24:02.416Z"
+      "pushedAt": "2026-07-14T17:53:59Z",
+      "collectedAt": "2026-07-14T19:12:12.985Z"
     },
     {
       "id": "moseoh/moseoh",
@@ -46,8 +30,24 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-07-14T07:55:24Z",
-      "collectedAt": "2026-07-14T13:24:02.416Z"
+      "pushedAt": "2026-07-14T13:24:04Z",
+      "collectedAt": "2026-07-14T19:12:12.985Z"
+    },
+    {
+      "id": "moseoh/orca",
+      "repo": {
+        "owner": "moseoh",
+        "name": "orca",
+        "nameWithOwner": "moseoh/orca",
+        "url": "https://github.com/moseoh/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-07-14T12:31:39Z",
+      "collectedAt": "2026-07-14T19:12:12.985Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-11T16:17:02Z",
-      "collectedAt": "2026-07-14T13:24:02.416Z"
+      "collectedAt": "2026-07-14T19:12:12.985Z"
     },
     {
       "id": "fabbitinc/fabbit-infra",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-03T14:04:25Z",
-      "collectedAt": "2026-07-14T13:24:02.416Z"
+      "collectedAt": "2026-07-14T19:12:12.985Z"
     }
   ]
 }
