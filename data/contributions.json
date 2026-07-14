@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-07-13T19:18:22.367Z",
+  "lastUpdated": "2026-07-14T01:25:29.070Z",
   "items": [
+    {
+      "id": "stablyai/orca#8570",
+      "repo": {
+        "owner": "stablyai",
+        "name": "orca",
+        "nameWithOwner": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "stars": 18316,
+        "language": "TypeScript",
+        "topics": [
+          "claude-code",
+          "codex",
+          "ghostty",
+          "terminal",
+          "cli",
+          "cursor-agent",
+          "opencode",
+          "orchestration",
+          "worktrees",
+          "parallel-agents"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 8570,
+        "title": "fix(source-control): huge-status flag permanently disabled all status refresh — commits in the terminal never surfaced",
+        "url": "https://github.com/stablyai/orca/pull/8570",
+        "state": "MERGED",
+        "mergedAt": "2026-07-14T00:52:25Z",
+        "createdAt": "2026-07-13T14:33:13Z",
+        "additions": 112,
+        "deletions": 11,
+        "changedFiles": 2
+      },
+      "collectedAt": "2026-07-14T01:25:14.114Z"
+    },
     {
       "id": "n8n-io/n8n#24614",
       "repo": {
