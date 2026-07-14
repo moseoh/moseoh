@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T02:03:05.611Z",
-  "totalStars": 8,
+  "lastUpdated": "2026-07-14T07:55:23.264Z",
+  "totalStars": 7,
   "repositories": [
     {
       "nameWithOwner": "moseoh/programmers_helper",
@@ -11,18 +11,6 @@
         {
           "date": "2025-12-18",
           "stars": 6
-        }
-      ]
-    },
-    {
-      "nameWithOwner": "moseoh/assistant",
-      "url": "https://github.com/moseoh/assistant",
-      "description": "Mybatis 쿼리문 생성기",
-      "stars": 1,
-      "history": [
-        {
-          "date": "2025-12-18",
-          "stars": 1
         }
       ]
     },
@@ -298,6 +286,22 @@
       "history": [
         {
           "date": "2025-12-18",
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/assistant",
+      "url": "https://github.com/moseoh/assistant",
+      "description": "Mybatis 쿼리문 생성기",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2025-12-18",
+          "stars": 1
+        },
+        {
+          "date": "2026-07-14",
           "stars": 0
         }
       ]
