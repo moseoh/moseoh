@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.142-rc.0](https://github.com/stablyai/orca/releases/tag/v1.4.142-rc.0), 9 minutes ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@2.31.0](https://github.com/n8n-io/n8n/releases/tag/n8n%402.31.0), about 11 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.142-rc.2](https://github.com/stablyai/orca/releases/tag/v1.4.142-rc.2), about 1 hour ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@2.31.0](https://github.com/n8n-io/n8n/releases/tag/n8n%402.31.0), about 18 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.9.24](https://github.com/wickenico/WailBrew/releases/tag/v0.9.24), 7 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), 20 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), 21 days ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page
