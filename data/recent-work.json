@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-21T19:13:38.115Z",
+  "lastUpdated": "2026-07-22T02:10:53.827Z",
   "items": [
+    {
+      "id": "moseoh/orca",
+      "repo": {
+        "owner": "moseoh",
+        "name": "orca",
+        "nameWithOwner": "moseoh/orca",
+        "url": "https://github.com/moseoh/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-07-21T23:36:35Z",
+      "collectedAt": "2026-07-22T02:10:53.826Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-07-21T13:28:56Z",
-      "collectedAt": "2026-07-21T19:13:38.115Z"
+      "pushedAt": "2026-07-21T19:13:39Z",
+      "collectedAt": "2026-07-22T02:10:53.826Z"
     },
     {
       "id": "moseoh/moseoh-lab",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-20T02:56:09Z",
-      "collectedAt": "2026-07-21T19:13:38.115Z"
+      "collectedAt": "2026-07-22T02:10:53.826Z"
     },
     {
       "id": "moseoh/blog.moseoh.com",
@@ -47,23 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-19T19:23:46Z",
-      "collectedAt": "2026-07-21T19:13:38.115Z"
-    },
-    {
-      "id": "moseoh/orca",
-      "repo": {
-        "owner": "moseoh",
-        "name": "orca",
-        "nameWithOwner": "moseoh/orca",
-        "url": "https://github.com/moseoh/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-07-19T03:50:21Z",
-      "collectedAt": "2026-07-21T19:13:38.115Z"
+      "collectedAt": "2026-07-22T02:10:53.826Z"
     },
     {
       "id": "moseoh/hello-realworld-bench",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-07-17T14:03:46Z",
-      "collectedAt": "2026-07-21T19:13:38.115Z"
+      "collectedAt": "2026-07-22T02:10:53.826Z"
     }
   ]
 }
