@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T19:08:03.208Z",
+  "lastUpdated": "2026-07-23T02:22:22.034Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -31,19 +31,19 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 2638,
+        "stars": 2660,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.9.24",
-        "name": "v0.9.24",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.9.24",
-        "publishedAt": "2026-07-08T00:08:06Z",
+        "tagName": "v0.10.1",
+        "name": "v0.10.1",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.10.1",
+        "publishedAt": "2026-07-22T23:54:28Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-07-08T02:14:38.878Z"
+      "collectedAt": "2026-07-23T02:22:21.073Z"
     },
     {
       "id": "n8n-io/n8n",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 25927,
+        "stars": 26250,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.151-rc.0",
-        "name": "v1.4.151-rc.0",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.151-rc.0",
-        "publishedAt": "2026-07-22T18:07:20Z",
-        "isPrerelease": true
+        "tagName": "v1.4.152",
+        "name": "v1.4.152",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.152",
+        "publishedAt": "2026-07-23T02:09:16Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-07-22T19:08:02.078Z"
+      "collectedAt": "2026-07-23T02:22:21.073Z"
     }
   ]
 }
