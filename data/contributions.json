@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-07-24T02:13:20.467Z",
+  "lastUpdated": "2026-07-24T08:19:27.528Z",
   "items": [
+    {
+      "id": "stablyai/orca#8727",
+      "repo": {
+        "owner": "stablyai",
+        "name": "orca",
+        "nameWithOwner": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "stars": 27812,
+        "language": "TypeScript",
+        "topics": [
+          "claude-code",
+          "codex",
+          "ghostty",
+          "terminal",
+          "cli",
+          "cursor-agent",
+          "opencode",
+          "orchestration",
+          "worktrees",
+          "parallel-agents"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 8727,
+        "title": "fix(tasks): resolve PR work items upstream-first under 'auto' like issues",
+        "url": "https://github.com/stablyai/orca/pull/8727",
+        "state": "MERGED",
+        "mergedAt": "2026-07-24T06:20:53Z",
+        "createdAt": "2026-07-14T10:43:13Z",
+        "additions": 56,
+        "deletions": 2,
+        "changedFiles": 2
+      },
+      "collectedAt": "2026-07-24T08:19:08.769Z"
+    },
     {
       "id": "stablyai/orca#8658",
       "repo": {
