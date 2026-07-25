@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-07-24T19:18:21.177Z",
+  "lastUpdated": "2026-07-25T02:12:39.700Z",
   "items": [
+    {
+      "id": "stablyai/orca#8643",
+      "repo": {
+        "owner": "stablyai",
+        "name": "orca",
+        "nameWithOwner": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "stars": 28385,
+        "language": "TypeScript",
+        "topics": [
+          "claude-code",
+          "codex",
+          "ghostty",
+          "terminal",
+          "cli",
+          "cursor-agent",
+          "opencode",
+          "orchestration",
+          "worktrees",
+          "parallel-agents"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 8643,
+        "title": "fix(rate-limits): keep Codex PTY reset text for weekly-only plans",
+        "url": "https://github.com/stablyai/orca/pull/8643",
+        "state": "MERGED",
+        "mergedAt": "2026-07-24T23:26:56Z",
+        "createdAt": "2026-07-14T01:40:59Z",
+        "additions": 422,
+        "deletions": 60,
+        "changedFiles": 10
+      },
+      "collectedAt": "2026-07-25T02:12:24.410Z"
+    },
     {
       "id": "stablyai/orca#8727",
       "repo": {

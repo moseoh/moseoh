@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 1 hour ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.153-rc.3](https://github.com/stablyai/orca/releases/tag/v1.4.153-rc.3), about 15 hours ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.156-rc.1](https://github.com/stablyai/orca/releases/tag/v1.4.156-rc.1), 25 minutes ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 8 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.10.1](https://github.com/wickenico/WailBrew/releases/tag/v0.10.1), 2 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), about 1 month ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
+- [stablyai/orca](https://github.com/stablyai/orca) - [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8570](https://github.com/stablyai/orca/pull/8570) fix(source-control): huge-status flag permanently disabled all status refresh — commits in the terminal never surfaced
