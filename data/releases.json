@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T02:24:24.378Z",
+  "lastUpdated": "2026-07-31T08:42:51.064Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 198642,
+        "stars": 198810,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "n8n@2.33.2",
-        "name": "n8n@2.33.2",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.33.2",
-        "publishedAt": "2026-07-30T07:58:12Z",
-        "isPrerelease": true
+        "tagName": "stable",
+        "name": "stable",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
+        "publishedAt": "2026-07-31T07:56:05Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-07-30T08:17:19.048Z"
+      "collectedAt": "2026-07-31T08:42:50.069Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 33952,
+        "stars": 34214,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.163-rc.0",
-        "name": "v1.4.163-rc.0",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.163-rc.0",
-        "publishedAt": "2026-07-30T20:27:17Z",
+        "tagName": "v1.4.163-rc.2",
+        "name": "v1.4.163-rc.2",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.163-rc.2",
+        "publishedAt": "2026-07-31T07:51:30Z",
         "isPrerelease": true
       },
-      "collectedAt": "2026-07-31T02:24:23.153Z"
+      "collectedAt": "2026-07-31T08:42:50.069Z"
     }
   ]
 }
