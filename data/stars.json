@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T02:22:38.147Z",
+  "lastUpdated": "2026-08-02T08:14:30.956Z",
   "totalStars": 7,
   "repositories": [
     {
@@ -23,6 +23,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/exercises-dataset",
+      "url": "https://github.com/moseoh/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "stars": 0
         }
       ]
     },
