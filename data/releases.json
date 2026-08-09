@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T18:29:54.872Z",
+  "lastUpdated": "2026-08-09T01:19:16.554Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 39808,
+        "stars": 40247,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.177-rc.1",
-        "name": "v1.4.177-rc.1",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.177-rc.1",
-        "publishedAt": "2026-08-08T04:23:36Z",
-        "isPrerelease": true
+        "tagName": "v1.4.177",
+        "name": "v1.4.177",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.177",
+        "publishedAt": "2026-08-08T20:55:39Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-08-08T06:43:07.565Z"
+      "collectedAt": "2026-08-09T01:19:15.656Z"
     }
   ]
 }
