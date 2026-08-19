@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T06:35:54.664Z",
+  "lastUpdated": "2026-08-19T12:36:45.190Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 201138,
+        "stars": 201173,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "stable",
-        "name": "stable",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
-        "publishedAt": "2026-08-19T06:20:27Z",
-        "isPrerelease": false
+        "tagName": "beta",
+        "name": "beta",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
+        "publishedAt": "2026-08-19T08:15:25Z",
+        "isPrerelease": true
       },
-      "collectedAt": "2026-08-19T06:35:53.647Z"
+      "collectedAt": "2026-08-19T12:36:44.012Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 46601,
+        "stars": 48768,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.184",
-        "name": "v1.4.184",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.184",
-        "publishedAt": "2026-08-17T00:14:37Z",
+        "tagName": "v1.4.185",
+        "name": "v1.4.185",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.185",
+        "publishedAt": "2026-08-19T06:44:29Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-08-17T00:59:03.010Z"
+      "collectedAt": "2026-08-19T12:36:44.012Z"
     }
   ]
 }
