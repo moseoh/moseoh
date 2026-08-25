@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), about 3 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.11.0](https://github.com/wickenico/WailBrew/releases/tag/v0.11.0), about 14 hours ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), about 6 hours ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.11.0](https://github.com/wickenico/WailBrew/releases/tag/v0.11.0), about 20 hours ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 - [stablyai/orca](https://github.com/stablyai/orca) ([mobile-android-v0.0.44](https://github.com/stablyai/orca/releases/tag/mobile-android-v0.0.44), 3 days ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), 2 months ago) - Contrib repository for the OpenTelemetry Collector
 
