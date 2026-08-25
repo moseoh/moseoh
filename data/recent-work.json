@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:00:06.246Z",
+  "lastUpdated": "2026-08-25T06:38:05.867Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-08-24T18:33:24Z",
-      "collectedAt": "2026-08-25T01:00:06.246Z"
+      "pushedAt": "2026-08-25T01:00:08Z",
+      "collectedAt": "2026-08-25T06:38:05.867Z"
     },
     {
       "id": "moseoh/hello-realworld-bench",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-08-23T05:45:50Z",
-      "collectedAt": "2026-08-25T01:00:06.246Z"
+      "collectedAt": "2026-08-25T06:38:05.867Z"
     }
   ]
 }
