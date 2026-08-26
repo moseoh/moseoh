@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-26T01:01:27.340Z",
+  "lastUpdated": "2026-08-26T06:39:40.607Z",
   "items": [
+    {
+      "id": "moseoh/orca",
+      "repo": {
+        "owner": "moseoh",
+        "name": "orca",
+        "nameWithOwner": "moseoh/orca",
+        "url": "https://github.com/moseoh/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-08-26T06:31:39Z",
+      "collectedAt": "2026-08-26T06:39:40.606Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-08-25T18:33:20Z",
-      "collectedAt": "2026-08-26T01:01:27.340Z"
+      "pushedAt": "2026-08-26T01:01:29Z",
+      "collectedAt": "2026-08-26T06:39:40.606Z"
     },
     {
       "id": "moseoh/hello-realworld-bench",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-08-23T05:45:50Z",
-      "collectedAt": "2026-08-26T01:01:27.340Z"
+      "collectedAt": "2026-08-26T06:39:40.606Z"
     }
   ]
 }
