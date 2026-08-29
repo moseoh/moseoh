@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-29T12:11:07.184Z",
+  "lastUpdated": "2026-08-29T20:19:48.860Z",
   "items": [
+    {
+      "id": "moseoh/aiongside",
+      "repo": {
+        "owner": "moseoh",
+        "name": "aiongside",
+        "nameWithOwner": "moseoh/aiongside",
+        "url": "https://github.com/moseoh/aiongside",
+        "description": "A local-first workspace for people and AI",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-08-29T16:05:28Z",
+      "collectedAt": "2026-08-29T20:19:48.860Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-08-29T05:22:40Z",
-      "collectedAt": "2026-08-29T12:11:07.184Z"
+      "pushedAt": "2026-08-29T12:11:09Z",
+      "collectedAt": "2026-08-29T20:19:48.860Z"
     },
     {
       "id": "moseoh/orca",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-08-26T08:43:40Z",
-      "collectedAt": "2026-08-29T12:11:07.184Z"
+      "collectedAt": "2026-08-29T20:19:48.860Z"
     }
   ]
 }
