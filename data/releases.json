@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T02:35:01.367Z",
+  "lastUpdated": "2026-09-02T10:29:40.202Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 203007,
+        "stars": 203106,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "beta",
-        "name": "beta",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
-        "publishedAt": "2026-09-01T10:29:20Z",
-        "isPrerelease": true
+        "tagName": "n8n@1.123.76",
+        "name": "n8n@1.123.76",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.76",
+        "publishedAt": "2026-09-02T07:37:28Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-09-01T11:00:09.273Z"
+      "collectedAt": "2026-09-02T10:29:38.562Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 58772,
+        "stars": 59616,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.194",
-        "name": "v1.4.194",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.194",
-        "publishedAt": "2026-09-01T04:51:09Z",
+        "tagName": "v1.4.195",
+        "name": "v1.4.195",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.195",
+        "publishedAt": "2026-09-02T03:51:16Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-01T11:00:09.273Z"
+      "collectedAt": "2026-09-02T10:29:38.562Z"
     }
   ]
 }
