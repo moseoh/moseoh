@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T02:40:01.397Z",
+  "lastUpdated": "2026-09-05T09:53:16.540Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -37,13 +37,13 @@
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.12.0",
-        "name": "v0.12.0",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.12.0",
-        "publishedAt": "2026-09-04T21:36:42Z",
+        "tagName": "v0.12.1",
+        "name": "v0.12.1",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.12.1",
+        "publishedAt": "2026-09-05T07:35:46Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-05T02:39:59.782Z"
+      "collectedAt": "2026-09-05T09:53:15.503Z"
     },
     {
       "id": "n8n-io/n8n",
