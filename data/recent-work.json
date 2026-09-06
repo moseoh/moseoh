@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06T10:10:33.132Z",
+  "lastUpdated": "2026-09-06T14:50:03.054Z",
   "items": [
+    {
+      "id": "moseoh/orca",
+      "repo": {
+        "owner": "moseoh",
+        "name": "orca",
+        "nameWithOwner": "moseoh/orca",
+        "url": "https://github.com/moseoh/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-06T10:59:29Z",
+      "collectedAt": "2026-09-06T14:50:03.054Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-06T02:37:24Z",
-      "collectedAt": "2026-09-06T10:10:33.132Z"
+      "pushedAt": "2026-09-06T10:10:35Z",
+      "collectedAt": "2026-09-06T14:50:03.054Z"
     },
     {
       "id": "moseoh/aiongside",
@@ -31,23 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-04T15:00:48Z",
-      "collectedAt": "2026-09-06T10:10:33.132Z"
-    },
-    {
-      "id": "moseoh/orca",
-      "repo": {
-        "owner": "moseoh",
-        "name": "orca",
-        "nameWithOwner": "moseoh/orca",
-        "url": "https://github.com/moseoh/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-08-26T08:43:40Z",
-      "collectedAt": "2026-09-06T10:10:33.132Z"
+      "collectedAt": "2026-09-06T14:50:03.054Z"
     }
   ]
 }
