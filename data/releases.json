@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T02:42:57.021Z",
+  "lastUpdated": "2026-09-11T10:30:43.147Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 203911,
+        "stars": 203990,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "stable",
-        "name": "stable",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
-        "publishedAt": "2026-09-10T08:08:05Z",
-        "isPrerelease": false
+        "tagName": "beta",
+        "name": "beta",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
+        "publishedAt": "2026-09-11T08:29:51Z",
+        "isPrerelease": true
       },
-      "collectedAt": "2026-09-10T10:28:52.228Z"
+      "collectedAt": "2026-09-11T10:30:42.022Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 65025,
+        "stars": 66385,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.199",
-        "name": "1.4.199",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.199",
-        "publishedAt": "2026-09-09T18:45:22Z",
+        "tagName": "v1.4.200",
+        "name": "v1.4.200",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.200",
+        "publishedAt": "2026-09-11T06:21:21Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-09T20:19:46.029Z"
+      "collectedAt": "2026-09-11T10:30:42.022Z"
     }
   ]
 }
