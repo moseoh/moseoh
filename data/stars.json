@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T20:22:31.076Z",
+  "lastUpdated": "2026-09-12T02:52:10.528Z",
   "totalStars": 7,
   "repositories": [
     {
@@ -23,6 +23,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/jdk",
+      "url": "https://github.com/moseoh/jdk",
+      "description": "JDK main-line development https://openjdk.org/projects/jdk",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-09-12",
+          "stars": 0
         }
       ]
     },
