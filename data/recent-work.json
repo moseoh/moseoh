@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-09-17T03:07:17.379Z",
+  "lastUpdated": "2026-09-17T06:30:53.646Z",
   "items": [
+    {
+      "id": "moseoh/moseoh",
+      "repo": {
+        "owner": "moseoh",
+        "name": "moseoh",
+        "nameWithOwner": "moseoh/moseoh",
+        "url": "https://github.com/moseoh/moseoh",
+        "description": "My personal repository",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T06:15:57Z",
+      "collectedAt": "2026-09-17T06:30:53.645Z"
+    },
+    {
+      "id": "moseoh/goback",
+      "repo": {
+        "owner": "moseoh",
+        "name": "goback",
+        "nameWithOwner": "moseoh/goback",
+        "url": "https://github.com/moseoh/goback",
+        "description": "A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.",
+        "stars": 0,
+        "language": "Go",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T05:12:12Z",
+      "collectedAt": "2026-09-17T06:30:53.645Z"
+    },
+    {
+      "id": "moseoh/Easy-DDSP-SVC-private",
+      "repo": {
+        "owner": "moseoh",
+        "name": "Easy-DDSP-SVC-private",
+        "nameWithOwner": "moseoh/Easy-DDSP-SVC-private",
+        "url": "https://github.com/moseoh/Easy-DDSP-SVC-private",
+        "description": "음성 학습 및 보컬 변환 DDSP SVC",
+        "stars": 0,
+        "language": "Python",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T05:02:21Z",
+      "collectedAt": "2026-09-17T06:30:53.645Z"
+    },
     {
       "id": "moseoh/assistant",
       "repo": {
@@ -15,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:53:57Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
+      "collectedAt": "2026-09-17T06:30:53.645Z"
     },
     {
       "id": "moseoh/Study",
@@ -31,23 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:53:54Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
-    },
-    {
-      "id": "moseoh/goback",
-      "repo": {
-        "owner": "moseoh",
-        "name": "goback",
-        "nameWithOwner": "moseoh/goback",
-        "url": "https://github.com/moseoh/goback",
-        "description": "A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.",
-        "stars": 0,
-        "language": "Go",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:52:06Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
+      "collectedAt": "2026-09-17T06:30:53.645Z"
     },
     {
       "id": "moseoh/github-template",
@@ -63,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:52:05Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
+      "collectedAt": "2026-09-17T06:30:53.645Z"
     },
     {
       "id": "moseoh/personal-assistant-github-app",
@@ -79,55 +111,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:51:49Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
-    },
-    {
-      "id": "moseoh/kpa",
-      "repo": {
-        "owner": "moseoh",
-        "name": "kpa",
-        "nameWithOwner": "moseoh/kpa",
-        "url": "https://github.com/moseoh/kpa",
-        "description": "Kotlin + JPA 플러그인 like jpa buddy",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:51:47Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
-    },
-    {
-      "id": "moseoh/moseoh_homepage",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh_homepage",
-        "nameWithOwner": "moseoh/moseoh_homepage",
-        "url": "https://github.com/moseoh/moseoh_homepage",
-        "description": "포트폴리오용 개인서버 홈페이지",
-        "stars": 0,
-        "language": "HTML",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:51:47Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
-    },
-    {
-      "id": "moseoh/blog.moseoh.com",
-      "repo": {
-        "owner": "moseoh",
-        "name": "blog.moseoh.com",
-        "nameWithOwner": "moseoh/blog.moseoh.com",
-        "url": "https://github.com/moseoh/blog.moseoh.com",
-        "description": null,
-        "stars": 0,
-        "language": "Astro",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:51:39Z",
-      "collectedAt": "2026-09-17T03:07:17.378Z"
+      "collectedAt": "2026-09-17T06:30:53.645Z"
     }
   ]
 }
