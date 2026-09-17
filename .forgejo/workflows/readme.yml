@@ -10,7 +10,9 @@ on:
     paths:
       - "templates/README.md.liquid"
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hours
+    # Forgejo 의 기본 시간대는 UTC 다 (파드의 TZ=Asia/Seoul 은 스케줄러에
+    # 영향이 없다). TZ= 접두사로 한국 시간을 명시한다.
+    - cron: "TZ=Asia/Seoul 0 7 * * *" # 매일 아침 7시 (KST)
   workflow_dispatch:
 
 jobs:
