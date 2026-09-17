@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T06:48:00.300Z",
+  "lastUpdated": "2026-09-17T22:00:55.671Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-17T06:30:57Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "pushedAt": "2026-09-17T06:52:44Z",
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     },
     {
       "id": "moseoh/goback",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T05:12:12Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     },
     {
       "id": "moseoh/Easy-DDSP-SVC-private",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T05:02:21Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     },
     {
       "id": "moseoh/assistant",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:53:57Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     },
     {
       "id": "moseoh/Study",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:53:54Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     },
     {
       "id": "moseoh/github-template",
@@ -95,23 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T02:52:05Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
-    },
-    {
-      "id": "moseoh/personal-assistant-github-app",
-      "repo": {
-        "owner": "moseoh",
-        "name": "personal-assistant-github-app",
-        "nameWithOwner": "moseoh/personal-assistant-github-app",
-        "url": "https://github.com/moseoh/personal-assistant-github-app",
-        "description": "A GitHub App that automates personal repository tasks like issue management and pull request labeling.",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:51:49Z",
-      "collectedAt": "2026-09-17T06:48:00.300Z"
+      "collectedAt": "2026-09-17T22:00:55.670Z"
     }
   ]
 }
