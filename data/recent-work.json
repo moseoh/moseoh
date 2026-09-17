@@ -1,53 +1,133 @@
 {
-  "lastUpdated": "2026-09-16T20:48:12.042Z",
+  "lastUpdated": "2026-09-17T03:07:17.379Z",
   "items": [
     {
-      "id": "moseoh/moseoh",
+      "id": "moseoh/assistant",
       "repo": {
         "owner": "moseoh",
-        "name": "moseoh",
-        "nameWithOwner": "moseoh/moseoh",
-        "url": "https://github.com/moseoh/moseoh",
-        "description": "My personal repository",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-16T16:00:43Z",
-      "collectedAt": "2026-09-16T20:48:12.041Z"
-    },
-    {
-      "id": "moseoh/jdk",
-      "repo": {
-        "owner": "moseoh",
-        "name": "jdk",
-        "nameWithOwner": "moseoh/jdk",
-        "url": "https://github.com/moseoh/jdk",
-        "description": "JDK main-line development https://openjdk.org/projects/jdk",
+        "name": "assistant",
+        "nameWithOwner": "moseoh/assistant",
+        "url": "https://github.com/moseoh/assistant",
+        "description": "Mybatis 쿼리문 생성기",
         "stars": 0,
         "language": "Java",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-15T02:31:36Z",
-      "collectedAt": "2026-09-16T20:48:12.041Z"
+      "pushedAt": "2026-09-17T02:53:57Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
     },
     {
-      "id": "moseoh/aiongside",
+      "id": "moseoh/Study",
       "repo": {
         "owner": "moseoh",
-        "name": "aiongside",
-        "nameWithOwner": "moseoh/aiongside",
-        "url": "https://github.com/moseoh/aiongside",
-        "description": "A local-first workspace for people and AI",
+        "name": "Study",
+        "nameWithOwner": "moseoh/Study",
+        "url": "https://github.com/moseoh/Study",
+        "description": "기본, 구현 공부",
+        "stars": 0,
+        "language": "Kotlin",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:53:54Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/goback",
+      "repo": {
+        "owner": "moseoh",
+        "name": "goback",
+        "nameWithOwner": "moseoh/goback",
+        "url": "https://github.com/moseoh/goback",
+        "description": "A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.",
+        "stars": 0,
+        "language": "Go",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:52:06Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/github-template",
+      "repo": {
+        "owner": "moseoh",
+        "name": "github-template",
+        "nameWithOwner": "moseoh/github-template",
+        "url": "https://github.com/moseoh/github-template",
+        "description": "Template Repository",
         "stars": 0,
         "language": "TypeScript",
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-11T03:22:23Z",
-      "collectedAt": "2026-09-16T20:48:12.041Z"
+      "pushedAt": "2026-09-17T02:52:05Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/personal-assistant-github-app",
+      "repo": {
+        "owner": "moseoh",
+        "name": "personal-assistant-github-app",
+        "nameWithOwner": "moseoh/personal-assistant-github-app",
+        "url": "https://github.com/moseoh/personal-assistant-github-app",
+        "description": "A GitHub App that automates personal repository tasks like issue management and pull request labeling.",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:51:49Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/kpa",
+      "repo": {
+        "owner": "moseoh",
+        "name": "kpa",
+        "nameWithOwner": "moseoh/kpa",
+        "url": "https://github.com/moseoh/kpa",
+        "description": "Kotlin + JPA 플러그인 like jpa buddy",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:51:47Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/moseoh_homepage",
+      "repo": {
+        "owner": "moseoh",
+        "name": "moseoh_homepage",
+        "nameWithOwner": "moseoh/moseoh_homepage",
+        "url": "https://github.com/moseoh/moseoh_homepage",
+        "description": "포트폴리오용 개인서버 홈페이지",
+        "stars": 0,
+        "language": "HTML",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:51:47Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
+    },
+    {
+      "id": "moseoh/blog.moseoh.com",
+      "repo": {
+        "owner": "moseoh",
+        "name": "blog.moseoh.com",
+        "nameWithOwner": "moseoh/blog.moseoh.com",
+        "url": "https://github.com/moseoh/blog.moseoh.com",
+        "description": null,
+        "stars": 0,
+        "language": "Astro",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-17T02:51:39Z",
+      "collectedAt": "2026-09-17T03:07:17.378Z"
     }
   ]
 }
