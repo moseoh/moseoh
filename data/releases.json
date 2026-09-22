@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T03:32:48.961Z",
+  "lastUpdated": "2026-09-22T11:02:51.848Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,7 +53,7 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 205597,
+        "stars": 205660,
         "language": null,
         "topics": [],
         "isPrivate": false
@@ -62,10 +62,10 @@
         "tagName": "beta",
         "name": "beta",
         "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
-        "publishedAt": "2026-09-21T14:03:53Z",
+        "publishedAt": "2026-09-22T07:32:23Z",
         "isPrerelease": true
       },
-      "collectedAt": "2026-09-21T21:44:57.171Z"
+      "collectedAt": "2026-09-22T11:02:50.704Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 73761,
+        "stars": 75119,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.206",
-        "name": "v1.4.206",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.206",
-        "publishedAt": "2026-09-20T22:50:08Z",
+        "tagName": "v1.4.207",
+        "name": "v1.4.207",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.207",
+        "publishedAt": "2026-09-22T09:44:40Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-21T03:33:45.228Z"
+      "collectedAt": "2026-09-22T11:02:50.704Z"
     }
   ]
 }

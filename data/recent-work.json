@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-22T03:32:49.426Z",
+  "lastUpdated": "2026-09-22T11:02:52.223Z",
   "items": [
+    {
+      "id": "fabbitinc/core",
+      "repo": {
+        "owner": "fabbitinc",
+        "name": "core",
+        "nameWithOwner": "fabbitinc/core",
+        "url": "https://github.com/fabbitinc/core",
+        "description": null,
+        "stars": 0,
+        "language": null,
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-22T09:45:16Z",
+      "collectedAt": "2026-09-22T11:02:52.223Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-21T21:45:00Z",
-      "collectedAt": "2026-09-22T03:32:49.426Z"
+      "pushedAt": "2026-09-22T03:32:51Z",
+      "collectedAt": "2026-09-22T11:02:52.223Z"
     },
     {
       "id": "moseoh/goback",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T05:12:12Z",
-      "collectedAt": "2026-09-22T03:32:49.426Z"
+      "collectedAt": "2026-09-22T11:02:52.223Z"
     },
     {
       "id": "moseoh/Easy-DDSP-SVC-private",
@@ -47,39 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T05:02:21Z",
-      "collectedAt": "2026-09-22T03:32:49.426Z"
-    },
-    {
-      "id": "moseoh/assistant",
-      "repo": {
-        "owner": "moseoh",
-        "name": "assistant",
-        "nameWithOwner": "moseoh/assistant",
-        "url": "https://github.com/moseoh/assistant",
-        "description": "Mybatis 쿼리문 생성기",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:53:57Z",
-      "collectedAt": "2026-09-22T03:32:49.426Z"
-    },
-    {
-      "id": "moseoh/Study",
-      "repo": {
-        "owner": "moseoh",
-        "name": "Study",
-        "nameWithOwner": "moseoh/Study",
-        "url": "https://github.com/moseoh/Study",
-        "description": "기본, 구현 공부",
-        "stars": 0,
-        "language": "Kotlin",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T02:53:54Z",
-      "collectedAt": "2026-09-22T03:32:49.426Z"
+      "collectedAt": "2026-09-22T11:02:52.223Z"
     }
   ]
 }
