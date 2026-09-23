@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T03:33:05.480Z",
+  "lastUpdated": "2026-09-23T10:52:05.441Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -31,19 +31,19 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 2834,
+        "stars": 2843,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.13.0",
-        "name": "v0.13.0",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.13.0",
-        "publishedAt": "2026-09-12T08:08:17Z",
+        "tagName": "v0.13.1",
+        "name": "v0.13.1",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.13.1",
+        "publishedAt": "2026-09-23T07:04:40Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-12T09:58:36.074Z"
+      "collectedAt": "2026-09-23T10:52:04.368Z"
     },
     {
       "id": "n8n-io/n8n",
@@ -53,7 +53,7 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 205660,
+        "stars": 205751,
         "language": null,
         "topics": [],
         "isPrivate": false
@@ -62,10 +62,10 @@
         "tagName": "beta",
         "name": "beta",
         "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
-        "publishedAt": "2026-09-22T07:32:23Z",
+        "publishedAt": "2026-09-23T09:58:20Z",
         "isPrerelease": true
       },
-      "collectedAt": "2026-09-22T11:02:50.704Z"
+      "collectedAt": "2026-09-23T10:52:04.368Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 75119,
+        "stars": 76115,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.207",
-        "name": "v1.4.207",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.207",
-        "publishedAt": "2026-09-22T09:44:40Z",
+        "tagName": "v1.4.209",
+        "name": "v1.4.209",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.209",
+        "publishedAt": "2026-09-23T05:25:28Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-09-22T11:02:50.704Z"
+      "collectedAt": "2026-09-23T10:52:04.368Z"
     }
   ]
 }
