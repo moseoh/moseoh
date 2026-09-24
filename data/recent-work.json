@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-24T03:23:11.453Z",
+  "lastUpdated": "2026-09-24T11:11:55.347Z",
   "items": [
+    {
+      "id": "moseoh/moseoh",
+      "repo": {
+        "owner": "moseoh",
+        "name": "moseoh",
+        "nameWithOwner": "moseoh/moseoh",
+        "url": "https://github.com/moseoh/moseoh",
+        "description": "My personal repository",
+        "stars": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-24T03:23:13Z",
+      "collectedAt": "2026-09-24T11:11:55.347Z"
+    },
     {
       "id": "moseoh/jdk",
       "repo": {
@@ -15,23 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-24T01:53:43Z",
-      "collectedAt": "2026-09-24T03:23:11.453Z"
-    },
-    {
-      "id": "moseoh/moseoh",
-      "repo": {
-        "owner": "moseoh",
-        "name": "moseoh",
-        "nameWithOwner": "moseoh/moseoh",
-        "url": "https://github.com/moseoh/moseoh",
-        "description": "My personal repository",
-        "stars": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-23T21:09:22Z",
-      "collectedAt": "2026-09-24T03:23:11.453Z"
+      "collectedAt": "2026-09-24T11:11:55.347Z"
     },
     {
       "id": "fabbitinc/core",
@@ -47,23 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-22T09:45:16Z",
-      "collectedAt": "2026-09-24T03:23:11.453Z"
-    },
-    {
-      "id": "moseoh/goback",
-      "repo": {
-        "owner": "moseoh",
-        "name": "goback",
-        "nameWithOwner": "moseoh/goback",
-        "url": "https://github.com/moseoh/goback",
-        "description": "A lightweight and reliable database backup utility written in Go. Designed for simplicity, speed.",
-        "stars": 0,
-        "language": "Go",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T05:12:12Z",
-      "collectedAt": "2026-09-24T03:23:11.453Z"
+      "collectedAt": "2026-09-24T11:11:55.347Z"
     }
   ]
 }
