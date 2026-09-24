@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-23T21:09:19.745Z",
+  "lastUpdated": "2026-09-24T03:23:11.453Z",
   "items": [
+    {
+      "id": "moseoh/jdk",
+      "repo": {
+        "owner": "moseoh",
+        "name": "jdk",
+        "nameWithOwner": "moseoh/jdk",
+        "url": "https://github.com/moseoh/jdk",
+        "description": "JDK main-line development https://openjdk.org/projects/jdk",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-09-24T01:53:43Z",
+      "collectedAt": "2026-09-24T03:23:11.453Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-09-23T16:12:56Z",
-      "collectedAt": "2026-09-23T21:09:19.744Z"
+      "pushedAt": "2026-09-23T21:09:22Z",
+      "collectedAt": "2026-09-24T03:23:11.453Z"
     },
     {
       "id": "fabbitinc/core",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-22T09:45:16Z",
-      "collectedAt": "2026-09-23T21:09:19.744Z"
+      "collectedAt": "2026-09-24T03:23:11.453Z"
     },
     {
       "id": "moseoh/goback",
@@ -47,23 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-17T05:12:12Z",
-      "collectedAt": "2026-09-23T21:09:19.744Z"
-    },
-    {
-      "id": "moseoh/Easy-DDSP-SVC-private",
-      "repo": {
-        "owner": "moseoh",
-        "name": "Easy-DDSP-SVC-private",
-        "nameWithOwner": "moseoh/Easy-DDSP-SVC-private",
-        "url": "https://github.com/moseoh/Easy-DDSP-SVC-private",
-        "description": "음성 학습 및 보컬 변환 DDSP SVC",
-        "stars": 0,
-        "language": "Python",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-17T05:02:21Z",
-      "collectedAt": "2026-09-23T21:09:19.744Z"
+      "collectedAt": "2026-09-24T03:23:11.453Z"
     }
   ]
 }
