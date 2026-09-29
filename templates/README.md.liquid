@@ -10,11 +10,11 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 {%- assign repo = group.items.first.repo -%}
 {%- unless excludeOwners contains repo.owner %}
 **[{{ repo.nameWithOwner }}]({{ repo.url }})** · ⭐ {{ repo.stars | compact }}{% if group.items.size > 1 %} · {{ group.items.size }} PRs{% endif %}
-{%- for item in group.items limit: 3 %}
-- [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
+{%- for item in group.items limit: 3 %}\
+&nbsp;&nbsp;• [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
 {%- endfor %}
-{%- if group.items.size > 3 %}
-- [+{{ group.items.size | minus: 3 }} more →](https://github.com/{{ repo.nameWithOwner }}/pulls?q=is%3Apr+author%3Amoseoh)
+{%- if group.items.size > 3 %}\
+&nbsp;&nbsp;• [+{{ group.items.size | minus: 3 }} more →](https://github.com/{{ repo.nameWithOwner }}/pulls?q=is%3Apr+author%3Amoseoh)
 {%- endif %}
 {% endunless -%}
 {%- endfor -%}
