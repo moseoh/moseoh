@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T04:01:39.406Z",
+  "lastUpdated": "2026-09-29T04:25:14.609Z",
   "items": [
     {
       "id": "openjdk/jdk#32867",
@@ -29,7 +29,7 @@
         "deletions": 1,
         "changedFiles": 3
       },
-      "collectedAt": "2026-09-29T04:01:21.436Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "stablyai/orca#8643",
@@ -38,8 +38,8 @@
         "name": "orca",
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 28385,
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars": 80886,
         "language": "TypeScript",
         "topics": [
           "claude-code",
@@ -66,7 +66,7 @@
         "deletions": 60,
         "changedFiles": 10
       },
-      "collectedAt": "2026-07-25T02:12:24.410Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "stablyai/orca#8727",
@@ -75,8 +75,8 @@
         "name": "orca",
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "stars": 27812,
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars": 80886,
         "language": "TypeScript",
         "topics": [
           "claude-code",
@@ -103,7 +103,7 @@
         "deletions": 2,
         "changedFiles": 2
       },
-      "collectedAt": "2026-07-24T08:19:08.769Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "stablyai/orca#8658",
@@ -112,8 +112,8 @@
         "name": "orca",
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "stars": 18643,
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars": 80886,
         "language": "TypeScript",
         "topics": [
           "claude-code",
@@ -140,7 +140,7 @@
         "deletions": 40,
         "changedFiles": 5
       },
-      "collectedAt": "2026-07-14T07:55:04.511Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "stablyai/orca#8570",
@@ -149,8 +149,8 @@
         "name": "orca",
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "stars": 18316,
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars": 80886,
         "language": "TypeScript",
         "topics": [
           "claude-code",
@@ -177,7 +177,7 @@
         "deletions": 11,
         "changedFiles": 2
       },
-      "collectedAt": "2026-07-14T01:25:14.114Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "n8n-io/n8n#24614",
@@ -187,7 +187,7 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 186672,
+        "stars": 206233,
         "language": "TypeScript",
         "topics": [
           "automation",
@@ -214,7 +214,7 @@
         "deletions": 2,
         "changedFiles": 2
       },
-      "collectedAt": "2026-05-04T18:33:35.128Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-web#40",
@@ -240,7 +240,7 @@
         "deletions": 4871,
         "changedFiles": 196
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-server#10",
@@ -266,7 +266,7 @@
         "deletions": 0,
         "changedFiles": 3
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-server#9",
@@ -292,7 +292,7 @@
         "deletions": 5,
         "changedFiles": 43
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-server#8",
@@ -318,7 +318,7 @@
         "deletions": 7,
         "changedFiles": 23
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-server#7",
@@ -344,7 +344,7 @@
         "deletions": 0,
         "changedFiles": 27
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-server#6",
@@ -370,7 +370,7 @@
         "deletions": 375,
         "changedFiles": 43
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-web#14",
@@ -396,7 +396,7 @@
         "deletions": 526,
         "changedFiles": 64
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-infra#9",
@@ -422,7 +422,7 @@
         "deletions": 6,
         "changedFiles": 2
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-infra#1",
@@ -448,7 +448,7 @@
         "deletions": 46,
         "changedFiles": 3
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "fabbitinc/fabbit-web#1",
@@ -474,7 +474,7 @@
         "deletions": 290,
         "changedFiles": 76
       },
-      "collectedAt": "2026-04-08T18:26:52.541Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "moseoh-org/flash-deals#25",
@@ -614,7 +614,7 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 1088,
+        "stars": 2843,
         "language": "TypeScript",
         "topics": [
           "go",
@@ -640,7 +640,7 @@
         "deletions": 9,
         "changedFiles": 14
       },
-      "collectedAt": "2025-12-18T08:31:08.637Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "wickenico/WailBrew#167",
@@ -650,7 +650,7 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 1088,
+        "stars": 2843,
         "language": "TypeScript",
         "topics": [
           "go",
@@ -676,7 +676,7 @@
         "deletions": 10,
         "changedFiles": 1
       },
-      "collectedAt": "2025-12-18T08:31:08.637Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "moseoh-org/flash-deals#20",
@@ -1222,7 +1222,7 @@
         "deletions": 266529,
         "changedFiles": 13
       },
-      "collectedAt": "2025-12-18T08:31:08.637Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "open-telemetry/opentelemetry-collector-contrib#41036",
@@ -1232,7 +1232,7 @@
         "nameWithOwner": "open-telemetry/opentelemetry-collector-contrib",
         "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
         "description": "Contrib repository for the OpenTelemetry Collector",
-        "stars": 4240,
+        "stars": 4959,
         "language": "Go",
         "topics": [
           "opentelemetry",
@@ -1251,7 +1251,7 @@
         "deletions": 1,
         "changedFiles": 3
       },
-      "collectedAt": "2025-12-18T08:31:08.637Z"
+      "collectedAt": "2026-09-29T04:25:05.108Z"
     },
     {
       "id": "WeDataLab-AI-Lab/.github#5",

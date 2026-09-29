@@ -1,19 +1,24 @@
 ### Hi there 👋
 
-#### 🚀 Latest releases I've contributed to
-- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.216](https://github.com/stablyai/orca/releases/tag/v1.4.216), about 8 hours ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.82](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.82), 4 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.13.1](https://github.com/wickenico/WailBrew/releases/tag/v0.13.1), 6 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), 3 months ago) - Contrib repository for the OpenTelemetry Collector
+Backend & Platform Engineer — building services, the infra they run on, and the pipelines that ship them.
 
-#### 🎉 My merged PRs
-- [openjdk/jdk](https://github.com/openjdk/jdk) - [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
-- [stablyai/orca](https://github.com/stablyai/orca) - [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans
-- [stablyai/orca](https://github.com/stablyai/orca) - [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues
-- [stablyai/orca](https://github.com/stablyai/orca) - [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page
-- [stablyai/orca](https://github.com/stablyai/orca) - [#8570](https://github.com/stablyai/orca/pull/8570) fix(source-control): huge-status flag permanently disabled all status refresh — commits in the terminal never surfaced
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
-- [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
-#### ⭐ Total Stars: 7
+#### 🛠️ Open source contributions
+
+**[openjdk/jdk](https://github.com/openjdk/jdk)** · ⭐ 23.4k
+- [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
+
+**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 80.9k · 4 PRs
+- [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans
+- [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues
+- [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page
+- [+1 more →](https://github.com/stablyai/orca/pulls?q=is%3Apr+author%3Amoseoh)
+
+**[n8n-io/n8n](https://github.com/n8n-io/n8n)** · ⭐ 206.2k
+- [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
+
+**[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.8k · 2 PRs
+- [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart
+- [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
+
+**[open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** · ⭐ 5k
+- [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
