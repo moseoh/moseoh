@@ -36,10 +36,12 @@ interface GqlPullRequest {
   url: string
   state: 'OPEN' | 'CLOSED' | 'MERGED'
   mergedAt: string | null
+  closedAt: string | null
   createdAt: string
   additions: number
   deletions: number
   changedFiles: number
+  labels: { nodes: Array<{ name: string }> }
   repository: GqlRepository
 }
 
@@ -104,13 +106,20 @@ function mapRepository(repo: GqlRepository): Repository {
   }
 }
 
+// Some projects (e.g. OpenJDK via Skara) push commits directly and close the PR
+// with an "integrated" label instead of merging it on GitHub.
+function isIntegrated(pr: GqlPullRequest): boolean {
+  return pr.state === 'CLOSED' && pr.labels.nodes.some((l) => l.name === 'integrated')
+}
+
 function mapPullRequest(pr: GqlPullRequest): PullRequest {
+  const integrated = isIntegrated(pr)
   return {
     number: pr.number,
     title: pr.title,
     url: pr.url,
-    state: pr.state,
-    mergedAt: pr.mergedAt,
+    state: integrated ? 'MERGED' : pr.state,
+    mergedAt: integrated ? pr.closedAt : pr.mergedAt,
     createdAt: pr.createdAt,
     additions: pr.additions,
     deletions: pr.deletions,
@@ -168,10 +177,13 @@ export class GitHubClient {
         // Skip private repos
         if (pr.repository.isPrivate) continue
 
+        // Skip closed PRs unless they were integrated outside GitHub's merge
+        if (pr.state === 'CLOSED' && !isIntegrated(pr)) continue
+
         // Skip own repos (only include contributions to other repos)
         if (pr.repository.owner.login.toLowerCase() === username.toLowerCase()) continue
 
-        const prDate = new Date(pr.mergedAt || pr.createdAt)
+        const prDate = new Date(pr.mergedAt || pr.closedAt || pr.createdAt)
 
         // Stop if we've reached the target date
         if (prDate < untilDate) {

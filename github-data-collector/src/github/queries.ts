@@ -4,7 +4,7 @@ export const MERGED_PULL_REQUESTS_QUERY = `
       pullRequests(
         first: $limit
         after: $cursor
-        states: MERGED
+        states: [MERGED, CLOSED]
         orderBy: { field: CREATED_AT, direction: DESC }
       ) {
         pageInfo {
@@ -17,10 +17,16 @@ export const MERGED_PULL_REQUESTS_QUERY = `
           url
           state
           mergedAt
+          closedAt
           createdAt
           additions
           deletions
           changedFiles
+          labels(first: 20) {
+            nodes {
+              name
+            }
+          }
           repository {
             owner {
               login
