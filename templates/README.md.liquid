@@ -2,28 +2,19 @@
 
 ### Hi there 👋
 
-#### 🚀 Latest releases I've contributed to
-{%- assign releaseCount = 0 -%}
-{%- for item in releases -%}
-{%- unless excludeOwners contains item.repo.owner -%}
-{%- if releaseCount < 5 %}
-- [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}) ([{{ item.release.tagName }}]({{ item.release.url }}), {{ item.release.publishedAt | humanize }}){% if item.repo.description %} - {{ item.repo.description }}{% endif %}
-{%- assign releaseCount = releaseCount | plus: 1 -%}
-{%- endif -%}
-{%- endunless -%}
-{%- endfor %}
+Backend & Platform Engineer — building services, the infra they run on, and the pipelines that ship them.
 
-#### 🎉 My merged PRs
-{%- assign contribCount = 0 -%}
-{%- for item in contributions -%}
-{%- unless excludeOwners contains item.repo.owner -%}
-{%- if contribCount < 10 %}
-- [{{ item.repo.nameWithOwner }}]({{ item.repo.url }}) - [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
-{%- assign contribCount = contribCount | plus: 1 -%}
-{%- endif -%}
-{%- endunless -%}
+#### 🛠️ Open source contributions
+{% assign groups = contributions | group_by: "repo.nameWithOwner" -%}
+{%- for group in groups -%}
+{%- assign repo = group.items.first.repo -%}
+{%- unless excludeOwners contains repo.owner %}
+**[{{ repo.nameWithOwner }}]({{ repo.url }})** · ⭐ {{ repo.stars | compact }}{% if group.items.size > 1 %} · {{ group.items.size }} PRs{% endif %}
+{%- for item in group.items limit: 3 %}
+- [#{{ item.pr.number }}]({{ item.pr.url }}) {{ item.pr.title }}
 {%- endfor %}
-
-{%- if stars.totalStars %}
-#### ⭐ Total Stars: {{ stars.totalStars }}
+{%- if group.items.size > 3 %}
+- [+{{ group.items.size | minus: 3 }} more →](https://github.com/{{ repo.nameWithOwner }}/pulls?q=is%3Apr+author%3Amoseoh)
 {%- endif %}
+{% endunless -%}
+{%- endfor -%}

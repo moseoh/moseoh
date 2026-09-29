@@ -30,7 +30,6 @@ export class ContributionsCollector {
     // Load existing data
     const existingData = await this.store.load()
     const existingItems = existingData.items
-    const existingIds = new Set(existingItems.map((item) => item.id))
 
     // Find oldest saved date
     const oldestSavedDate =
@@ -53,8 +52,9 @@ export class ContributionsCollector {
       ? new Date(Math.min(oldestSavedDate.getTime(), sinceDate.getTime()))
       : sinceDate
 
-    // Fetch PRs with pagination until target date
-    const prs = await this.client.getMergedPullRequestsUntil(username, targetDate, existingIds)
+    // Fetch PRs with pagination until target date (including already saved ones,
+    // so repo metadata such as stars stays fresh)
+    const prs = await this.client.getMergedPullRequestsUntil(username, targetDate)
 
     // Convert to Contribution format
     const contributions: Contribution[] = prs.map((item) => ({
@@ -64,8 +64,8 @@ export class ContributionsCollector {
       collectedAt: now,
     }))
 
-    // Merge with existing data (cumulative)
-    const result = await this.store.merge(contributions)
+    // Upsert into existing data (cumulative, refreshes saved items)
+    const result = await this.store.upsert(contributions)
 
     // Sort by merge date (newest first)
     const sortedItems = result.all.sort((a, b) => {

@@ -153,8 +153,7 @@ export class GitHubClient {
 
   async getMergedPullRequestsUntil(
     username: string,
-    untilDate: Date,
-    existingIds: Set<string>
+    untilDate: Date
   ): Promise<Array<{ repo: Repository; pr: PullRequest }>> {
     const results: Array<{ repo: Repository; pr: PullRequest }> = []
     let cursor: string | null = null
@@ -190,10 +189,6 @@ export class GitHubClient {
           hasNextPage = false
           break
         }
-
-        // Skip if already exists
-        const prId = `${pr.repository.nameWithOwner}#${pr.number}`
-        if (existingIds.has(prId)) continue
 
         results.push({
           repo: mapRepository(pr.repository),
