@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 #### 🚀 Latest releases I've contributed to
-- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.216](https://github.com/stablyai/orca/releases/tag/v1.4.216), about 3 hours ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) ([v1.4.216](https://github.com/stablyai/orca/releases/tag/v1.4.216), about 8 hours ago) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.82](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.82), 4 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) ([v0.13.1](https://github.com/wickenico/WailBrew/releases/tag/v0.13.1), 6 days ago) - Minimalistic Homebrew GUI made with Go, Wails and React.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.155.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.155.0), 3 months ago) - Contrib repository for the OpenTelemetry Collector
 
 #### 🎉 My merged PRs
+- [openjdk/jdk](https://github.com/openjdk/jdk) - [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues
 - [stablyai/orca](https://github.com/stablyai/orca) - [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page

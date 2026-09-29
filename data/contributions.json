@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-09-28T22:58:31.993Z",
+  "lastUpdated": "2026-09-29T04:01:39.406Z",
   "items": [
+    {
+      "id": "openjdk/jdk#32867",
+      "repo": {
+        "owner": "openjdk",
+        "name": "jdk",
+        "nameWithOwner": "openjdk/jdk",
+        "url": "https://github.com/openjdk/jdk",
+        "description": "JDK main-line development https://openjdk.org/projects/jdk",
+        "stars": 23387,
+        "language": "Java",
+        "topics": [
+          "openjdk",
+          "java",
+          "jvm"
+        ],
+        "isPrivate": false
+      },
+      "pr": {
+        "number": 32867,
+        "title": "8392223: CLDR provider mutates shared cached time zone name arrays",
+        "url": "https://github.com/openjdk/jdk/pull/32867",
+        "state": "MERGED",
+        "mergedAt": "2026-09-28T18:20:38Z",
+        "createdAt": "2026-09-15T02:39:52Z",
+        "additions": 215,
+        "deletions": 1,
+        "changedFiles": 3
+      },
+      "collectedAt": "2026-09-29T04:01:21.436Z"
+    },
     {
       "id": "stablyai/orca#8643",
       "repo": {
