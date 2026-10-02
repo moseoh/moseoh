@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T04:18:05.908Z",
+  "lastUpdated": "2026-10-02T11:58:08.561Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 206425,
+        "stars": 206500,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "beta",
-        "name": "beta",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
-        "publishedAt": "2026-10-01T08:08:02Z",
-        "isPrerelease": true
+        "tagName": "stable",
+        "name": "stable",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
+        "publishedAt": "2026-10-02T07:27:39Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-10-01T12:32:33.170Z"
+      "collectedAt": "2026-10-02T11:58:06.890Z"
     },
     {
       "id": "stablyai/orca",
