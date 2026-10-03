@@ -7,7 +7,7 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[openjdk/jdk](https://github.com/openjdk/jdk)** · ⭐ 23.4k\
 &nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
 
-**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 83.8k · 4 PRs\
+**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 83.9k · 4 PRs\
 &nbsp;&nbsp;• [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans\
 &nbsp;&nbsp;• [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues\
 &nbsp;&nbsp;• [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page\
