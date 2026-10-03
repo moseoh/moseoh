@@ -7,13 +7,13 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[openjdk/jdk](https://github.com/openjdk/jdk)** · ⭐ 23.4k\
 &nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
 
-**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 84.1k · 4 PRs\
+**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 84.3k · 4 PRs\
 &nbsp;&nbsp;• [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans\
 &nbsp;&nbsp;• [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues\
 &nbsp;&nbsp;• [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page\
 &nbsp;&nbsp;• [+1 more →](https://github.com/stablyai/orca/pulls?q=is%3Apr+author%3Amoseoh)
 
-**[n8n-io/n8n](https://github.com/n8n-io/n8n)** · ⭐ 206.5k\
+**[n8n-io/n8n](https://github.com/n8n-io/n8n)** · ⭐ 206.6k\
 &nbsp;&nbsp;• [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
 
 **[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.8k · 2 PRs\
