@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T20:55:17.357Z",
+  "lastUpdated": "2026-10-05T04:18:58.789Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-04T16:30:54Z",
-      "collectedAt": "2026-10-04T20:55:17.356Z"
+      "pushedAt": "2026-10-04T20:55:19Z",
+      "collectedAt": "2026-10-05T04:18:58.789Z"
     },
     {
       "id": "moseoh/jdk",
@@ -31,23 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-09-24T01:53:43Z",
-      "collectedAt": "2026-10-04T20:55:17.356Z"
-    },
-    {
-      "id": "fabbitinc/core",
-      "repo": {
-        "owner": "fabbitinc",
-        "name": "core",
-        "nameWithOwner": "fabbitinc/core",
-        "url": "https://github.com/fabbitinc/core",
-        "description": null,
-        "stars": 0,
-        "language": null,
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-09-22T09:45:16Z",
-      "collectedAt": "2026-10-04T20:55:17.356Z"
+      "collectedAt": "2026-10-05T04:18:58.789Z"
     }
   ]
 }
