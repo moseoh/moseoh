@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T00:12:26.787Z",
+  "lastUpdated": "2026-10-13T13:39:42.463Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-12T14:33:35Z",
-      "collectedAt": "2026-10-13T00:12:26.786Z"
+      "pushedAt": "2026-10-13T00:12:29Z",
+      "collectedAt": "2026-10-13T13:39:42.463Z"
     },
     {
       "id": "moseoh/aiongside",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-12T00:56:13Z",
-      "collectedAt": "2026-10-13T00:12:26.786Z"
+      "collectedAt": "2026-10-13T13:39:42.463Z"
     }
   ]
 }
