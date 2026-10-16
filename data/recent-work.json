@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-10-16T10:48:24.371Z",
+  "lastUpdated": "2026-10-16T16:10:14.117Z",
   "items": [
+    {
+      "id": "moseoh/jdk17u-dev",
+      "repo": {
+        "owner": "moseoh",
+        "name": "jdk17u-dev",
+        "nameWithOwner": "moseoh/jdk17u-dev",
+        "url": "https://github.com/moseoh/jdk17u-dev",
+        "description": "https://openjdk.org/projects/jdk-updates",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-10-16T15:28:23Z",
+      "collectedAt": "2026-10-16T16:10:14.116Z"
+    },
+    {
+      "id": "moseoh/jdk21u-dev",
+      "repo": {
+        "owner": "moseoh",
+        "name": "jdk21u-dev",
+        "nameWithOwner": "moseoh/jdk21u-dev",
+        "url": "https://github.com/moseoh/jdk21u-dev",
+        "description": "https://openjdk.org/projects/jdk-updates",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-10-16T15:28:04Z",
+      "collectedAt": "2026-10-16T16:10:14.116Z"
+    },
+    {
+      "id": "moseoh/jdk27u",
+      "repo": {
+        "owner": "moseoh",
+        "name": "jdk27u",
+        "nameWithOwner": "moseoh/jdk27u",
+        "url": "https://github.com/moseoh/jdk27u",
+        "description": "https://openjdk.org/projects/jdk-updates",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-10-16T14:10:19Z",
+      "collectedAt": "2026-10-16T16:10:14.116Z"
+    },
+    {
+      "id": "moseoh/jdk25u-dev",
+      "repo": {
+        "owner": "moseoh",
+        "name": "jdk25u-dev",
+        "nameWithOwner": "moseoh/jdk25u-dev",
+        "url": "https://github.com/moseoh/jdk25u-dev",
+        "description": "https://openjdk.org/projects/jdk-updates",
+        "stars": 0,
+        "language": "Java",
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-10-16T13:30:17Z",
+      "collectedAt": "2026-10-16T16:10:14.116Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +78,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-16T03:21:16Z",
-      "collectedAt": "2026-10-16T10:48:24.371Z"
+      "pushedAt": "2026-10-16T10:48:26Z",
+      "collectedAt": "2026-10-16T16:10:14.116Z"
     },
     {
       "id": "moseoh/aiongside",
@@ -31,7 +95,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-12T00:56:13Z",
-      "collectedAt": "2026-10-16T10:48:24.371Z"
+      "collectedAt": "2026-10-16T16:10:14.116Z"
     }
   ]
 }
