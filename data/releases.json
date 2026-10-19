@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T03:28:08.118Z",
+  "lastUpdated": "2026-10-19T12:16:52.496Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 207621,
+        "stars": 207987,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "stable",
-        "name": "stable",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
-        "publishedAt": "2026-10-16T07:23:58Z",
-        "isPrerelease": false
+        "tagName": "beta",
+        "name": "beta",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/beta",
+        "publishedAt": "2026-10-19T07:23:54Z",
+        "isPrerelease": true
       },
-      "collectedAt": "2026-10-16T10:48:22.556Z"
+      "collectedAt": "2026-10-19T12:16:51.020Z"
     },
     {
       "id": "stablyai/orca",
@@ -74,20 +74,20 @@
         "name": "orca",
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 94765,
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars": 97523,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.229",
-        "name": "v1.4.229",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.229",
-        "publishedAt": "2026-10-17T06:54:05Z",
+        "tagName": "v1.4.230",
+        "name": "1.4.230",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.230",
+        "publishedAt": "2026-10-19T06:30:00Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-10-17T10:13:27.565Z"
+      "collectedAt": "2026-10-19T12:16:51.020Z"
     }
   ]
 }
