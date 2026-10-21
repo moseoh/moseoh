@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T21:18:37.944Z",
+  "lastUpdated": "2026-10-21T03:30:16.237Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -31,19 +31,19 @@
         "nameWithOwner": "wickenico/WailBrew",
         "url": "https://github.com/wickenico/WailBrew",
         "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
-        "stars": 2842,
+        "stars": 2844,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v0.13.2",
-        "name": "v0.13.2",
-        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.13.2",
-        "publishedAt": "2026-10-10T08:35:39Z",
+        "tagName": "v0.14.0",
+        "name": "v0.14.0",
+        "url": "https://github.com/wickenico/WailBrew/releases/tag/v0.14.0",
+        "publishedAt": "2026-10-20T23:56:37Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-10-10T11:59:15.480Z"
+      "collectedAt": "2026-10-21T03:30:14.675Z"
     },
     {
       "id": "n8n-io/n8n",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 99600,
+        "stars": 99946,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "mobile-android-v0.0.58",
-        "name": "Orca Mobile Android mobile-android-v0.0.58",
-        "url": "https://github.com/stablyai/orca/releases/tag/mobile-android-v0.0.58",
-        "publishedAt": "2026-10-20T20:05:17Z",
-        "isPrerelease": true
+        "tagName": "v1.4.235",
+        "name": "v1.4.235",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.235",
+        "publishedAt": "2026-10-20T22:52:23Z",
+        "isPrerelease": false
       },
-      "collectedAt": "2026-10-20T21:18:36.616Z"
+      "collectedAt": "2026-10-21T03:30:14.675Z"
     }
   ]
 }
