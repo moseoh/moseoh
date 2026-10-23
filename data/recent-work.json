@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T16:33:14.218Z",
+  "lastUpdated": "2026-10-23T21:03:31.471Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-23T11:06:04Z",
-      "collectedAt": "2026-10-23T16:33:14.217Z"
+      "pushedAt": "2026-10-23T16:33:16Z",
+      "collectedAt": "2026-10-23T21:03:31.470Z"
     },
     {
       "id": "moseoh/jdk17u-dev",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T15:28:23Z",
-      "collectedAt": "2026-10-23T16:33:14.217Z"
+      "collectedAt": "2026-10-23T21:03:31.470Z"
     },
     {
       "id": "moseoh/jdk21u-dev",
@@ -47,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T15:28:04Z",
-      "collectedAt": "2026-10-23T16:33:14.217Z"
+      "collectedAt": "2026-10-23T21:03:31.470Z"
     },
     {
       "id": "moseoh/jdk27u",
@@ -63,7 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T14:10:19Z",
-      "collectedAt": "2026-10-23T16:33:14.217Z"
+      "collectedAt": "2026-10-23T21:03:31.470Z"
     },
     {
       "id": "moseoh/jdk25u-dev",
@@ -79,7 +79,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T13:30:17Z",
-      "collectedAt": "2026-10-23T16:33:14.217Z"
+      "collectedAt": "2026-10-23T21:03:31.470Z"
     }
   ]
 }
