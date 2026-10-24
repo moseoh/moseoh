@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-24T03:28:59.767Z",
+  "lastUpdated": "2026-10-24T10:22:39.203Z",
   "items": [
+    {
+      "id": "moseoh-org/diorama",
+      "repo": {
+        "owner": "moseoh-org",
+        "name": "diorama",
+        "nameWithOwner": "moseoh-org/diorama",
+        "url": "https://github.com/moseoh-org/diorama",
+        "description": "VM 재현 환경을 Docker Compose 처럼 정의하고 띄우고 되돌리는 도구 (CLI: dio)",
+        "stars": 0,
+        "language": null,
+        "topics": [],
+        "isPrivate": false
+      },
+      "pushedAt": "2026-10-24T09:43:36Z",
+      "collectedAt": "2026-10-24T10:22:39.203Z"
+    },
     {
       "id": "moseoh/moseoh",
       "repo": {
@@ -14,8 +30,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-23T21:03:34Z",
-      "collectedAt": "2026-10-24T03:28:59.766Z"
+      "pushedAt": "2026-10-24T03:29:01Z",
+      "collectedAt": "2026-10-24T10:22:39.203Z"
     },
     {
       "id": "moseoh/jdk17u-dev",
@@ -31,7 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T15:28:23Z",
-      "collectedAt": "2026-10-24T03:28:59.766Z"
+      "collectedAt": "2026-10-24T10:22:39.203Z"
     },
     {
       "id": "moseoh/jdk21u-dev",
@@ -47,39 +63,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T15:28:04Z",
-      "collectedAt": "2026-10-24T03:28:59.766Z"
-    },
-    {
-      "id": "moseoh/jdk27u",
-      "repo": {
-        "owner": "moseoh",
-        "name": "jdk27u",
-        "nameWithOwner": "moseoh/jdk27u",
-        "url": "https://github.com/moseoh/jdk27u",
-        "description": "https://openjdk.org/projects/jdk-updates",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-10-16T14:10:19Z",
-      "collectedAt": "2026-10-24T03:28:59.766Z"
-    },
-    {
-      "id": "moseoh/jdk25u-dev",
-      "repo": {
-        "owner": "moseoh",
-        "name": "jdk25u-dev",
-        "nameWithOwner": "moseoh/jdk25u-dev",
-        "url": "https://github.com/moseoh/jdk25u-dev",
-        "description": "https://openjdk.org/projects/jdk-updates",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-10-16T13:30:17Z",
-      "collectedAt": "2026-10-24T03:28:59.766Z"
+      "collectedAt": "2026-10-24T10:22:39.203Z"
     }
   ]
 }
