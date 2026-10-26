@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T03:27:08.531Z",
+  "lastUpdated": "2026-10-26T12:20:48.917Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -53,19 +53,19 @@
         "nameWithOwner": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 208375,
+        "stars": 208630,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "n8n@1.123.87",
-        "name": "n8n@1.123.87",
-        "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.87",
-        "publishedAt": "2026-10-23T07:51:27Z",
+        "tagName": "n8n@1.123.88",
+        "name": "n8n@1.123.88",
+        "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.88",
+        "publishedAt": "2026-10-26T06:49:08Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-10-23T11:05:59.689Z"
+      "collectedAt": "2026-10-26T12:20:47.455Z"
     },
     {
       "id": "stablyai/orca",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 105271,
+        "stars": 106521,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.240",
-        "name": "v1.4.240",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.240",
-        "publishedAt": "2026-10-25T04:02:08Z",
-        "isPrerelease": false
+        "tagName": "mobile-android-v0.0.59",
+        "name": "Orca Mobile Android mobile-android-v0.0.59",
+        "url": "https://github.com/stablyai/orca/releases/tag/mobile-android-v0.0.59",
+        "publishedAt": "2026-10-26T04:21:00Z",
+        "isPrerelease": true
       },
-      "collectedAt": "2026-10-25T10:50:04.262Z"
+      "collectedAt": "2026-10-26T12:20:47.455Z"
     }
   ]
 }
