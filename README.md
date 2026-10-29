@@ -10,7 +10,7 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[openjdk/jdk](https://github.com/openjdk/jdk)** · ⭐ 23.5k\
 &nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
 
-**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 109.7k · 4 PRs\
+**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 110.1k · 4 PRs\
 &nbsp;&nbsp;• [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans\
 &nbsp;&nbsp;• [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues\
 &nbsp;&nbsp;• [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page\
@@ -19,7 +19,7 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[n8n-io/n8n](https://github.com/n8n-io/n8n)** · ⭐ 209k\
 &nbsp;&nbsp;• [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
 
-**[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.8k · 2 PRs\
+**[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.9k · 2 PRs\
 &nbsp;&nbsp;• [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart\
 &nbsp;&nbsp;• [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 
