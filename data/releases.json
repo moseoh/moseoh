@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T22:15:07.230Z",
+  "lastUpdated": "2026-10-29T04:36:21.997Z",
   "items": [
     {
       "id": "open-telemetry/opentelemetry-collector-contrib",
@@ -75,19 +75,19 @@
         "nameWithOwner": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "stars": 108222,
+        "stars": 109277,
         "language": null,
         "topics": [],
         "isPrivate": false
       },
       "release": {
-        "tagName": "v1.4.243",
-        "name": "v1.4.243",
-        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.243",
-        "publishedAt": "2026-10-28T04:08:34Z",
+        "tagName": "v1.4.244",
+        "name": "v1.4.244",
+        "url": "https://github.com/stablyai/orca/releases/tag/v1.4.244",
+        "publishedAt": "2026-10-29T03:55:29Z",
         "isPrerelease": false
       },
-      "collectedAt": "2026-10-28T04:15:02.151Z"
+      "collectedAt": "2026-10-29T04:36:20.415Z"
     }
   ]
 }
