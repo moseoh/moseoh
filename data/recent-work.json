@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T22:28:54.742Z",
+  "lastUpdated": "2026-10-30T04:36:17.085Z",
   "items": [
     {
       "id": "moseoh/moseoh",
@@ -14,8 +14,8 @@
         "topics": [],
         "isPrivate": false
       },
-      "pushedAt": "2026-10-29T12:22:56Z",
-      "collectedAt": "2026-10-29T22:28:54.742Z"
+      "pushedAt": "2026-10-29T22:28:56Z",
+      "collectedAt": "2026-10-30T04:36:17.085Z"
     },
     {
       "id": "moseoh-org/diorama",
@@ -31,7 +31,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-24T09:43:36Z",
-      "collectedAt": "2026-10-29T22:28:54.742Z"
+      "collectedAt": "2026-10-30T04:36:17.085Z"
     },
     {
       "id": "moseoh/jdk17u-dev",
@@ -47,23 +47,7 @@
         "isPrivate": false
       },
       "pushedAt": "2026-10-16T15:28:23Z",
-      "collectedAt": "2026-10-29T22:28:54.742Z"
-    },
-    {
-      "id": "moseoh/jdk21u-dev",
-      "repo": {
-        "owner": "moseoh",
-        "name": "jdk21u-dev",
-        "nameWithOwner": "moseoh/jdk21u-dev",
-        "url": "https://github.com/moseoh/jdk21u-dev",
-        "description": "https://openjdk.org/projects/jdk-updates",
-        "stars": 0,
-        "language": "Java",
-        "topics": [],
-        "isPrivate": false
-      },
-      "pushedAt": "2026-10-16T15:28:04Z",
-      "collectedAt": "2026-10-29T22:28:54.742Z"
+      "collectedAt": "2026-10-30T04:36:17.085Z"
     }
   ]
 }
