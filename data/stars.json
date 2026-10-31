@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:19:14.050Z",
+  "lastUpdated": "2026-10-31T11:46:06.536Z",
   "totalStars": 7,
   "repositories": [
     {
@@ -23,6 +23,18 @@
         {
           "date": "2025-12-18",
           "stars": 1
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "moseoh/OpenList-Frontend",
+      "url": "https://github.com/moseoh/OpenList-Frontend",
+      "description": "The front-end of OpenList, powered by SolidJS",
+      "stars": 0,
+      "history": [
+        {
+          "date": "2026-10-31",
+          "stars": 0
         }
       ]
     },
