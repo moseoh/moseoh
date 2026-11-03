@@ -8,6 +8,9 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 &nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays\
 &nbsp;&nbsp;&nbsp;&nbsp;↳ backported to [jdk27u#167](https://github.com/openjdk/jdk27u/pull/167) · [jdk25u-dev#883](https://github.com/openjdk/jdk25u-dev/pull/883)
 
+**[open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** · ⭐ 5k\
+&nbsp;&nbsp;• [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
+
 **[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 114k\
 &nbsp;&nbsp;• [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans\
 &nbsp;&nbsp;• [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues\
@@ -20,6 +23,3 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.9k\
 &nbsp;&nbsp;• [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart\
 &nbsp;&nbsp;• [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
-
-**[open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** · ⭐ 5k\
-&nbsp;&nbsp;• [#41036](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/41036) [receiver/receivercreator] Fix incorrect condition in filterConsumerSignals for traces filtering
