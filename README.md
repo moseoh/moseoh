@@ -4,16 +4,11 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 
 #### 🛠️ Open source contributions
 
-**[openjdk/jdk25u-dev](https://github.com/openjdk/jdk25u-dev)** · ⭐ 6\
-&nbsp;&nbsp;• [#883](https://github.com/openjdk/jdk25u-dev/pull/883) 8392223: CLDR provider mutates shared cached time zone name arrays
-
-**[openjdk/jdk27u](https://github.com/openjdk/jdk27u)** · ⭐ 7\
-&nbsp;&nbsp;• [#167](https://github.com/openjdk/jdk27u/pull/167) 8392223: CLDR provider mutates shared cached time zone name arrays
-
 **[openjdk/jdk](https://github.com/openjdk/jdk)** · ⭐ 23.5k\
-&nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays
+&nbsp;&nbsp;• [#32867](https://github.com/openjdk/jdk/pull/32867) 8392223: CLDR provider mutates shared cached time zone name arrays\
+&nbsp;&nbsp;&nbsp;&nbsp;↳ backported to [jdk27u#167](https://github.com/openjdk/jdk27u/pull/167) · [jdk25u-dev#883](https://github.com/openjdk/jdk25u-dev/pull/883)
 
-**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 113.6k · 4 PRs\
+**[stablyai/orca](https://github.com/stablyai/orca)** · ⭐ 114k\
 &nbsp;&nbsp;• [#8643](https://github.com/stablyai/orca/pull/8643) fix(rate-limits): keep Codex PTY reset text for weekly-only plans\
 &nbsp;&nbsp;• [#8727](https://github.com/stablyai/orca/pull/8727) fix(tasks): resolve PR work items upstream-first under 'auto' like issues\
 &nbsp;&nbsp;• [#8658](https://github.com/stablyai/orca/pull/8658) fix(github): pin work-item list ordering to updated-desc so cursor pagination reaches every page\
@@ -22,7 +17,7 @@ Backend & Platform Engineer — building services, the infra they run on, and th
 **[n8n-io/n8n](https://github.com/n8n-io/n8n)** · ⭐ 209.4k\
 &nbsp;&nbsp;• [#24614](https://github.com/n8n-io/n8n/pull/24614) fix(DeepL Node): Update credentials to use header-based authentication
 
-**[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.9k · 2 PRs\
+**[wickenico/WailBrew](https://github.com/wickenico/WailBrew)** · ⭐ 2.9k\
 &nbsp;&nbsp;• [#167](https://github.com/wickenico/WailBrew/pull/167) Fix mirror source settings not persisting after restart\
 &nbsp;&nbsp;• [#168](https://github.com/wickenico/WailBrew/pull/168) Add Korean translation support
 
